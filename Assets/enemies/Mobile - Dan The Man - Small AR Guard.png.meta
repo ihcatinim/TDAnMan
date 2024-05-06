@@ -1,0 +1,3858 @@
+fileFormatVersion: 2
+guid: 4c9c426452ea45e4a993615a3e20b25d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b460f44a0d50c4bb7816072a562ca5
+      internalID: -906502892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6491d89535dec4382a28b3d6635742
+      internalID: 1259701090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23130196cdae6244a0c39da08d1d2c1
+      internalID: 282694302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72beb815baaf7e741a77096a54aa255a
+      internalID: -1872463432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47420de15b9cdaf40a50971329c4d205
+      internalID: 521342987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663fdd2c12faf9479e8bf666294befd
+      internalID: -389040252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b05e1d9c01f441932dd04c74a3c4b
+      internalID: 1229039027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0811046e3d8c003489b41de4811b0454
+      internalID: 1339043323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a99c7ffc9d954f8b45cf768f94afd
+      internalID: 49453218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973062f64f650ad49ad0aac0025ede30
+      internalID: 932407684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fbeec319e4fdf4db85a977a48c85b9
+      internalID: -916333878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f6bacbfd970e3429019251bb94dc30
+      internalID: -1676077906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_12
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 509
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f26b0f2444f8e40850522b53dd9966
+      internalID: -435629644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 509
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff38d31c2103b845b044462f0464aca
+      internalID: -1375414623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 509
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a7a8ab6e0dae429dd77d4e1cd1604
+      internalID: 853273663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_15
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 509
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf8132d86ac3145b16586b3810ccec
+      internalID: -1183244310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c7f3908fba8d147b97b38327366f28
+      internalID: 1611903365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b39c7fb168f4a24389a8ec2641d67ad
+      internalID: -158667035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ea156a139402438bdf63e9da557e9
+      internalID: 1494674274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a85cea352d70945b4fe40232148de5
+      internalID: -2041392376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f5ec2ff485a3438ba9dac9d457eb0
+      internalID: 1180505037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e5856c57635264ca2d414462563579
+      internalID: -2064254559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6637bfacff7024e8c8955cf32f55cc
+      internalID: -671737328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c46f1cb4633e439a693f1f576282f
+      internalID: 1891360149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 456
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae487fdf5056b469c4dfa4049851ec
+      internalID: -1883634531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 445
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b557ea07b7fc1458bb6b9c8c67ca8a
+      internalID: -1146985982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 445
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d109a1b893ae46bf57c84a8375154
+      internalID: 492017398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_27
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 445
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a5b28a81add5c4d9a9d64be65bbfbd
+      internalID: -860707144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_28
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 445
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413e3294a78c774381f3f6c34875f2f
+      internalID: 1144474141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_29
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 445
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3350c3ed6474fb488becd2bfbefe3a8
+      internalID: -2136541373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_30
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 445
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3bf5d8f43e8d44cbfd6c388fb704ea
+      internalID: -1482191501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_31
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 445
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9877be01d52da429451ce30146774e
+      internalID: -1620660845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_32
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 445
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc9b7cefa1f1ee4c8998d88a9d15b99
+      internalID: -385077635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 445
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd69d49806536643abe41a9aaecac6c
+      internalID: 950106505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_34
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 445
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f757105f28ab346b6fa07a5b2226ae
+      internalID: 640584242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 445
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b79552ed014b408a7832b9bfacd99
+      internalID: 1126985014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_36
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 445
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7527ae45a6b31944b5de962fe717e69
+      internalID: 1479293761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 393
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b15191d652839547983eec6ce4a2121
+      internalID: -517312365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 393
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b20c8d8fa2553041a8ec82b5727c70a
+      internalID: -108192711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 393
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da07538fbf117e45a5ce97f0ced6144
+      internalID: -1703362473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 393
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6921dbe0b1e3b63418247aacad404318
+      internalID: 1895765274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 393
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896004ecfdcb8045985df192f97de21
+      internalID: 1399828252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 393
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd2cffae811ceb40a81fa6c337fa211
+      internalID: -1947320069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 393
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439c00bb52e9be48baaf8b6a28da3ff
+      internalID: -714228109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 393
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bab4e435935bc4e8e5635e556f6811
+      internalID: -765395001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 393
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2690dbfea1e1740b56e1f77fcb3c26
+      internalID: 630832306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 393
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b58c4fffb56ec41acb82f54a31ca30
+      internalID: -1329152661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 393
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90547ef9f95383343acc5781bd461e1d
+      internalID: -905991530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 393
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4025369701b30479768e15f05f1e28
+      internalID: 492812128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_49
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 393
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4279f3ddd14744abae185ae38dd099
+      internalID: -1480360202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_50
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 393
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d4f9382c4d67e428f0c8f8b5c1bd1d
+      internalID: 1051963960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_51
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 393
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7cbe47c1c06de4bbad7e33642572dd
+      internalID: 1587319675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_52
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 393
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d05a7932856f478469379c97059cd
+      internalID: 282799702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda3dbefbea706f4f88402a8bd8173a2
+      internalID: 467854132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 340
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f97e0c337c2945ad65a2b3213d057
+      internalID: 1270677988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 340
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0ae876c84aa84e9108711974b8131
+      internalID: -1144826138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 340
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a0c67d042d7a47bf7afa1c4f9bab2
+      internalID: 1717932676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 340
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df6b04a7dc5da428a4379de45f4693
+      internalID: 1688994358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 339
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6c3f84f4540f499934cd6e2b5845e
+      internalID: -590206688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_59
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 343
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c888b66c0437f4c9bd7cc2823d973f
+      internalID: 1518568095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_60
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 340
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e234470cd8057d241bfed15fa76bceb2
+      internalID: -649653460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_61
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 338
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c61858e2a0dbaa4fbebaa1a1d57bf50
+      internalID: 1290632777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_62
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 340
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faaff53bc075f24d80ff0dfa33293d9
+      internalID: 1182718000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_63
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 340
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e603a8fdceecfa74e87c3728123c9903
+      internalID: 751071917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_64
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 340
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3facb9973ceb40b42ceffc024c14b
+      internalID: 2127573033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_65
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 340
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c08accb264894a866b8aae95270ea
+      internalID: -759939195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_66
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 339
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00299131bc3340f4fb29fa4f2d40645e
+      internalID: 2049176162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_67
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 339
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1dfb972f70504191cf3d31010d5cb
+      internalID: -1760674403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d669c523523972469932300a0d5cefe
+      internalID: -544147434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_69
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 279
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4afa609c0aa6240b368d7eeeb3289f
+      internalID: 125684160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 284
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae037f8b669ae47b55bb54a1cbfc02
+      internalID: -1837706702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 279
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f329e883f495e448904699c53a8b0f
+      internalID: 1885444438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 281
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90305ac1881ce479fcefdb19b6d6c9
+      internalID: -1926164309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 281
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867f7ada19b2ce49b1d6e627b54d6a0
+      internalID: -379696321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_74
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 281
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e863666163b94a816b37fba290bff
+      internalID: 1838222948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_75
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 280
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1fde7a63bd3974bb41396a45892caf
+      internalID: -1666874055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_76
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 280
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba518ca728ccb741bff88ff850c6689
+      internalID: 401280543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_77
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 281
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516cd1c403ae4847b656e56e800777a
+      internalID: 143797681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 281
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731c83d2a795be40b11ec7e0c448192
+      internalID: 211286171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_79
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 281
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7aaeac04f1834fb4639ecad7c6edc
+      internalID: -525913388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e95ddb8aa6a5343bd07d7c08293c6f
+      internalID: -2074075821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 224
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180da8a1cbd9b8c41a4b8e471ba25c32
+      internalID: 1471740573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e64bf901f19514f84d94802caf35f9
+      internalID: 1528540646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_83
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 224
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263c89074913d534388b4ba5a9e74f87
+      internalID: 1316015883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_84
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 224
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794d38b75b630b547b98d33b1cfc159f
+      internalID: -1589368388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_85
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 224
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c24eeb28790943b62e758c022e970
+      internalID: 42455572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_86
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 224
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d15885a45bdc34cb89047e0fdb5bbe
+      internalID: -635455053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 224
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126c8ddd40d2dc543af4831b00e874a2
+      internalID: -255575618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_88
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 224
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd35661eb674f4a9ed23b401dec541
+      internalID: -2020567055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_89
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 223
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d769f54db3849049ae18e017a2a51aa
+      internalID: 1863640903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_90
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 223
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a2b5ebdde5cf42ad65f47dfbfa7ca
+      internalID: 312051618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_91
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 224
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f63323d2dc67847ad1b69896e44aac
+      internalID: -1354662759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_92
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 224
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e04d9bb2882e479aff928c7f8b12c
+      internalID: -1066180308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_93
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 225
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10959a339267f374dbe46a197874f381
+      internalID: -1717858606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_94
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 225
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c440e0e780f840af6c96fee7ecdc1
+      internalID: 1801647385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_95
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 224
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087b329449c436489e91428123dbcd4
+      internalID: -1096965657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_96
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 224
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea73f15965caa94187e5debc34fb5b4
+      internalID: -922216041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_97
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 224
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a3679192efd824f98be678a93b9d37
+      internalID: -1611785967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_98
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 224
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ebc0e818b2994387e88e6ed0f125d
+      internalID: 326659630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_99
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 224
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2fe4f51ec957c4bae0271f1dba6c38
+      internalID: -2029646224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_100
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 224
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6801064b23609d499e632df109007e8
+      internalID: 1258318721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c682b7b1987c0343ae84acc8a414ae8
+      internalID: -13263599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_102
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a601f00656d0a4dbc859c6cca2ccde
+      internalID: 1386444120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_103
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 171
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f94c1fe58b4a449427148fcc06a77
+      internalID: 1240671527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_104
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 171
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119463edb2bc8d41af6170ba86be4d3
+      internalID: -428859281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_105
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 176
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a5120e477982c42ad571c7e2ea0601
+      internalID: -855961316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_106
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 184
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c20837c13d3f43ad7b39ec3f6f480
+      internalID: -1187801363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_107
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 184
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43929288d0b20c9469a07df62e011172
+      internalID: 1321195973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_108
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 184
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af142c279418d1c47a916ecf6a485ba6
+      internalID: 40857118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_109
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 169
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffaab425c3672d4ab40b1bd62790386
+      internalID: 1418090497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_110
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 167
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82df7d8565f5a741b273f880073c45c
+      internalID: -1921433982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_111
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 167
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb1e372820b364b8ae00c87f1d8187
+      internalID: -2044161087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_112
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 167
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa474fd839c1c942a94d7b16b45b42a
+      internalID: 1503642539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_113
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 167
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3e3452a39e3ae498103d5dcf7b09eb
+      internalID: -182721658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_114
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 166
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69d206458e74ad4dad6a4443d5b5c79
+      internalID: -551245253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_115
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 166
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754952c18999164b8b295b5d2da3b4b
+      internalID: 57874997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_116
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 166
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d622b209dd1b37499d5b343b9b28c0c
+      internalID: 968378747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_117
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 163
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53649ca04dba89f4296a89e9bdf5e554
+      internalID: 665077324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_118
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 164
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9d35300e31e624ca6ffb29a8b25582
+      internalID: -1630423355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_119
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 163
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe1ae0d132284c4f85df4f727c805de
+      internalID: 1372454533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc4435cc0ec4046a6dee59f3bac80c
+      internalID: -1248009248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_121
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 115
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1c18bcc6989e849b06ca870a631ea6
+      internalID: 1473936638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_122
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 115
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f0395b270dd24396b6c78b82d9f06
+      internalID: -2109674215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_123
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 115
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2883e16d3598c41a447a84b2b96f5e
+      internalID: 1399263319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_124
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 115
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937668eed6503e4dac44de72b4cd732
+      internalID: -800840299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_125
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 115
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0238455f3e47b0842b7a2e1784b04d99
+      internalID: -334709607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_126
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 115
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6735843ffa2782c4cb887de13bfecc21
+      internalID: 1212908702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_127
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 116
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dee426d9da97249a4db5f020fa95ec
+      internalID: 1938852420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_128
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 117
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec027d69de294541b901fe9ef092fc0
+      internalID: -533548556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_129
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 120
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146d950882d69a4fa748860e829c298
+      internalID: -1077016084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_130
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 119
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f41dd23f9c054db18f3200d823122
+      internalID: -680112330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_131
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 118
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f26088b953074c81a1dd1d59908fd
+      internalID: 662545443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_132
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 117
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b74c2659f6fe47a74395975361064
+      internalID: 2066480321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_133
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 117
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1215f11f6d86944f95850eb912611cf
+      internalID: -963199186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_134
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 78
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0211a9c4882624eb181913ec24abca
+      internalID: 501388887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_135
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 117
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59be69e253306146bda603abdbc8c08
+      internalID: -752386140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_136
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 117
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277af3aaec8c4ef4b968af79c77bf294
+      internalID: 341354783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_137
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 117
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ce5ff17503a04e9ba92ecc1966205
+      internalID: -980112240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_138
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6378ef8e2f527148a69792576e9730e
+      internalID: 168596048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_139
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 62
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763290cdf1f30741b379d0e7fcab6a0
+      internalID: -1066044288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_140
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 62
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb51d85a8fdcc8e47a0675e03e9c0685
+      internalID: 1678349454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_141
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 62
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc26bc57a88843f40857d6a4cbcb9f34
+      internalID: 277543290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_142
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 62
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931af93ca37d5bc41871109cc84afed1
+      internalID: -1564818650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_143
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 62
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450e10fb449027498070b40fb416389
+      internalID: -1689572475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_144
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 62
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4817187cf7ad4db7e06d3e31293db
+      internalID: 840277217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_145
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 62
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d52cc7696d7704ea6bff595cc91d96
+      internalID: 1429504114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_146
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 62
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3188aefd20ba4f9870ad45f2fa43b
+      internalID: 1054740182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_147
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 62
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4681f932d6e828742858e2bdc84ae017
+      internalID: -2023367177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_148
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 62
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e27a78e9ff56844385d026c059c99a3
+      internalID: 782020150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_149
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 62
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb4dd1c42507d4684c77c815dfddd7
+      internalID: -624644608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_150
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 62
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24cc3e913de48743bc92ffb698d8c9e
+      internalID: 2137947234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_151
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 62
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933a4caa4540a204583e05f0113e7a4a
+      internalID: 1557826569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_152
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 65
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f770db45d2df4ba11d25c55e52f09
+      internalID: 1555558106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_153
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 77
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ed4ed6b00da3046bf55b910f11ab28
+      internalID: -847224857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_154
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995cd3bf4db7344c904d0fc579aff2b
+      internalID: -1037355670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_155
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 16
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78efa19d477afb4cad1177d5e013b75
+      internalID: -1548273817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_156
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 16
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c355d178ad7c43bc6952f23bad7ac
+      internalID: 1044112424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_157
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de9a183f3aed1d4b8b5dbd26cdb6f1e
+      internalID: 893360150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_158
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126719442f79c914395ea3f9635deed2
+      internalID: -1616131978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa874d071dfdda64a9e4d404077c2fd7
+      internalID: -327180768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_160
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 16
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13056e51e380dc44e862cf2a23a79490
+      internalID: 119974503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_161
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 16
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23f7ddd13b70346b379e9ef60fe562
+      internalID: 379319472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_162
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 16
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c71ee0af778547903217190875da2
+      internalID: 791787706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_163
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 16
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1378aa92f8c887438b3f555e5f47084
+      internalID: 1696717721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_164
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f24e1279d34d343a2beced51b87dd4
+      internalID: -1426380971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_165
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd26cad3942ccb489e9726f9661203d
+      internalID: 1302175485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_166
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 11
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ce7a4e372fae4e8cacf0225dc3174
+      internalID: 432657204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_167
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 10
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4373c10bc4fdb041a94910d164f9636
+      internalID: 197324259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small AR Guard_168
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ae10fabe5a1046abbfc758bc1c1d7
+      internalID: -709171252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Dan The Man - Small AR Guard_0: -906502892
+      Mobile - Dan The Man - Small AR Guard_1: 1259701090
+      Mobile - Dan The Man - Small AR Guard_10: -916333878
+      Mobile - Dan The Man - Small AR Guard_100: 1258318721
+      Mobile - Dan The Man - Small AR Guard_101: -13263599
+      Mobile - Dan The Man - Small AR Guard_102: 1386444120
+      Mobile - Dan The Man - Small AR Guard_103: 1240671527
+      Mobile - Dan The Man - Small AR Guard_104: -428859281
+      Mobile - Dan The Man - Small AR Guard_105: -855961316
+      Mobile - Dan The Man - Small AR Guard_106: -1187801363
+      Mobile - Dan The Man - Small AR Guard_107: 1321195973
+      Mobile - Dan The Man - Small AR Guard_108: 40857118
+      Mobile - Dan The Man - Small AR Guard_109: 1418090497
+      Mobile - Dan The Man - Small AR Guard_11: -1676077906
+      Mobile - Dan The Man - Small AR Guard_110: -1921433982
+      Mobile - Dan The Man - Small AR Guard_111: -2044161087
+      Mobile - Dan The Man - Small AR Guard_112: 1503642539
+      Mobile - Dan The Man - Small AR Guard_113: -182721658
+      Mobile - Dan The Man - Small AR Guard_114: -551245253
+      Mobile - Dan The Man - Small AR Guard_115: 57874997
+      Mobile - Dan The Man - Small AR Guard_116: 968378747
+      Mobile - Dan The Man - Small AR Guard_117: 665077324
+      Mobile - Dan The Man - Small AR Guard_118: -1630423355
+      Mobile - Dan The Man - Small AR Guard_119: 1372454533
+      Mobile - Dan The Man - Small AR Guard_12: -435629644
+      Mobile - Dan The Man - Small AR Guard_120: -1248009248
+      Mobile - Dan The Man - Small AR Guard_121: 1473936638
+      Mobile - Dan The Man - Small AR Guard_122: -2109674215
+      Mobile - Dan The Man - Small AR Guard_123: 1399263319
+      Mobile - Dan The Man - Small AR Guard_124: -800840299
+      Mobile - Dan The Man - Small AR Guard_125: -334709607
+      Mobile - Dan The Man - Small AR Guard_126: 1212908702
+      Mobile - Dan The Man - Small AR Guard_127: 1938852420
+      Mobile - Dan The Man - Small AR Guard_128: -533548556
+      Mobile - Dan The Man - Small AR Guard_129: -1077016084
+      Mobile - Dan The Man - Small AR Guard_13: -1375414623
+      Mobile - Dan The Man - Small AR Guard_130: -680112330
+      Mobile - Dan The Man - Small AR Guard_131: 662545443
+      Mobile - Dan The Man - Small AR Guard_132: 2066480321
+      Mobile - Dan The Man - Small AR Guard_133: -963199186
+      Mobile - Dan The Man - Small AR Guard_134: 501388887
+      Mobile - Dan The Man - Small AR Guard_135: -752386140
+      Mobile - Dan The Man - Small AR Guard_136: 341354783
+      Mobile - Dan The Man - Small AR Guard_137: -980112240
+      Mobile - Dan The Man - Small AR Guard_138: 168596048
+      Mobile - Dan The Man - Small AR Guard_139: -1066044288
+      Mobile - Dan The Man - Small AR Guard_14: 853273663
+      Mobile - Dan The Man - Small AR Guard_140: 1678349454
+      Mobile - Dan The Man - Small AR Guard_141: 277543290
+      Mobile - Dan The Man - Small AR Guard_142: -1564818650
+      Mobile - Dan The Man - Small AR Guard_143: -1689572475
+      Mobile - Dan The Man - Small AR Guard_144: 840277217
+      Mobile - Dan The Man - Small AR Guard_145: 1429504114
+      Mobile - Dan The Man - Small AR Guard_146: 1054740182
+      Mobile - Dan The Man - Small AR Guard_147: -2023367177
+      Mobile - Dan The Man - Small AR Guard_148: 782020150
+      Mobile - Dan The Man - Small AR Guard_149: -624644608
+      Mobile - Dan The Man - Small AR Guard_15: -1183244310
+      Mobile - Dan The Man - Small AR Guard_150: 2137947234
+      Mobile - Dan The Man - Small AR Guard_151: 1557826569
+      Mobile - Dan The Man - Small AR Guard_152: 1555558106
+      Mobile - Dan The Man - Small AR Guard_153: -847224857
+      Mobile - Dan The Man - Small AR Guard_154: -1037355670
+      Mobile - Dan The Man - Small AR Guard_155: -1548273817
+      Mobile - Dan The Man - Small AR Guard_156: 1044112424
+      Mobile - Dan The Man - Small AR Guard_157: 893360150
+      Mobile - Dan The Man - Small AR Guard_158: -1616131978
+      Mobile - Dan The Man - Small AR Guard_159: -327180768
+      Mobile - Dan The Man - Small AR Guard_16: 1611903365
+      Mobile - Dan The Man - Small AR Guard_160: 119974503
+      Mobile - Dan The Man - Small AR Guard_161: 379319472
+      Mobile - Dan The Man - Small AR Guard_162: 791787706
+      Mobile - Dan The Man - Small AR Guard_163: 1696717721
+      Mobile - Dan The Man - Small AR Guard_164: -1426380971
+      Mobile - Dan The Man - Small AR Guard_165: 1302175485
+      Mobile - Dan The Man - Small AR Guard_166: 432657204
+      Mobile - Dan The Man - Small AR Guard_167: 197324259
+      Mobile - Dan The Man - Small AR Guard_168: -709171252
+      Mobile - Dan The Man - Small AR Guard_17: -158667035
+      Mobile - Dan The Man - Small AR Guard_18: 1494674274
+      Mobile - Dan The Man - Small AR Guard_19: -2041392376
+      Mobile - Dan The Man - Small AR Guard_2: 282694302
+      Mobile - Dan The Man - Small AR Guard_20: 1180505037
+      Mobile - Dan The Man - Small AR Guard_21: -2064254559
+      Mobile - Dan The Man - Small AR Guard_22: -671737328
+      Mobile - Dan The Man - Small AR Guard_23: 1891360149
+      Mobile - Dan The Man - Small AR Guard_24: -1883634531
+      Mobile - Dan The Man - Small AR Guard_25: -1146985982
+      Mobile - Dan The Man - Small AR Guard_26: 492017398
+      Mobile - Dan The Man - Small AR Guard_27: -860707144
+      Mobile - Dan The Man - Small AR Guard_28: 1144474141
+      Mobile - Dan The Man - Small AR Guard_29: -2136541373
+      Mobile - Dan The Man - Small AR Guard_3: -1872463432
+      Mobile - Dan The Man - Small AR Guard_30: -1482191501
+      Mobile - Dan The Man - Small AR Guard_31: -1620660845
+      Mobile - Dan The Man - Small AR Guard_32: -385077635
+      Mobile - Dan The Man - Small AR Guard_33: 950106505
+      Mobile - Dan The Man - Small AR Guard_34: 640584242
+      Mobile - Dan The Man - Small AR Guard_35: 1126985014
+      Mobile - Dan The Man - Small AR Guard_36: 1479293761
+      Mobile - Dan The Man - Small AR Guard_37: -517312365
+      Mobile - Dan The Man - Small AR Guard_38: -108192711
+      Mobile - Dan The Man - Small AR Guard_39: -1703362473
+      Mobile - Dan The Man - Small AR Guard_4: 521342987
+      Mobile - Dan The Man - Small AR Guard_40: 1895765274
+      Mobile - Dan The Man - Small AR Guard_41: 1399828252
+      Mobile - Dan The Man - Small AR Guard_42: -1947320069
+      Mobile - Dan The Man - Small AR Guard_43: -714228109
+      Mobile - Dan The Man - Small AR Guard_44: -765395001
+      Mobile - Dan The Man - Small AR Guard_45: 630832306
+      Mobile - Dan The Man - Small AR Guard_46: -1329152661
+      Mobile - Dan The Man - Small AR Guard_47: -905991530
+      Mobile - Dan The Man - Small AR Guard_48: 492812128
+      Mobile - Dan The Man - Small AR Guard_49: -1480360202
+      Mobile - Dan The Man - Small AR Guard_5: -389040252
+      Mobile - Dan The Man - Small AR Guard_50: 1051963960
+      Mobile - Dan The Man - Small AR Guard_51: 1587319675
+      Mobile - Dan The Man - Small AR Guard_52: 282799702
+      Mobile - Dan The Man - Small AR Guard_53: 467854132
+      Mobile - Dan The Man - Small AR Guard_54: 1270677988
+      Mobile - Dan The Man - Small AR Guard_55: -1144826138
+      Mobile - Dan The Man - Small AR Guard_56: 1717932676
+      Mobile - Dan The Man - Small AR Guard_57: 1688994358
+      Mobile - Dan The Man - Small AR Guard_58: -590206688
+      Mobile - Dan The Man - Small AR Guard_59: 1518568095
+      Mobile - Dan The Man - Small AR Guard_6: 1229039027
+      Mobile - Dan The Man - Small AR Guard_60: -649653460
+      Mobile - Dan The Man - Small AR Guard_61: 1290632777
+      Mobile - Dan The Man - Small AR Guard_62: 1182718000
+      Mobile - Dan The Man - Small AR Guard_63: 751071917
+      Mobile - Dan The Man - Small AR Guard_64: 2127573033
+      Mobile - Dan The Man - Small AR Guard_65: -759939195
+      Mobile - Dan The Man - Small AR Guard_66: 2049176162
+      Mobile - Dan The Man - Small AR Guard_67: -1760674403
+      Mobile - Dan The Man - Small AR Guard_68: -544147434
+      Mobile - Dan The Man - Small AR Guard_69: 125684160
+      Mobile - Dan The Man - Small AR Guard_7: 1339043323
+      Mobile - Dan The Man - Small AR Guard_70: -1837706702
+      Mobile - Dan The Man - Small AR Guard_71: 1885444438
+      Mobile - Dan The Man - Small AR Guard_72: -1926164309
+      Mobile - Dan The Man - Small AR Guard_73: -379696321
+      Mobile - Dan The Man - Small AR Guard_74: 1838222948
+      Mobile - Dan The Man - Small AR Guard_75: -1666874055
+      Mobile - Dan The Man - Small AR Guard_76: 401280543
+      Mobile - Dan The Man - Small AR Guard_77: 143797681
+      Mobile - Dan The Man - Small AR Guard_78: 211286171
+      Mobile - Dan The Man - Small AR Guard_79: -525913388
+      Mobile - Dan The Man - Small AR Guard_8: 49453218
+      Mobile - Dan The Man - Small AR Guard_80: -2074075821
+      Mobile - Dan The Man - Small AR Guard_81: 1471740573
+      Mobile - Dan The Man - Small AR Guard_82: 1528540646
+      Mobile - Dan The Man - Small AR Guard_83: 1316015883
+      Mobile - Dan The Man - Small AR Guard_84: -1589368388
+      Mobile - Dan The Man - Small AR Guard_85: 42455572
+      Mobile - Dan The Man - Small AR Guard_86: -635455053
+      Mobile - Dan The Man - Small AR Guard_87: -255575618
+      Mobile - Dan The Man - Small AR Guard_88: -2020567055
+      Mobile - Dan The Man - Small AR Guard_89: 1863640903
+      Mobile - Dan The Man - Small AR Guard_9: 932407684
+      Mobile - Dan The Man - Small AR Guard_90: 312051618
+      Mobile - Dan The Man - Small AR Guard_91: -1354662759
+      Mobile - Dan The Man - Small AR Guard_92: -1066180308
+      Mobile - Dan The Man - Small AR Guard_93: -1717858606
+      Mobile - Dan The Man - Small AR Guard_94: 1801647385
+      Mobile - Dan The Man - Small AR Guard_95: -1096965657
+      Mobile - Dan The Man - Small AR Guard_96: -922216041
+      Mobile - Dan The Man - Small AR Guard_97: -1611785967
+      Mobile - Dan The Man - Small AR Guard_98: 326659630
+      Mobile - Dan The Man - Small AR Guard_99: -2029646224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
