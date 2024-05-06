@@ -64,7 +64,7 @@ public class attacks : MonoBehaviour
         Collider2D[] hitenemy = Physics2D.OverlapCircleAll(attackpoint.position, attackRange, enemylayers);
         foreach(Collider2D enemy in hitenemy)
         {
-            enemy.GetComponent<enemy>().TakeDame(atkdama);
+            enemy.GetComponent<enemy>().Takedame(atkdama);
         }
 
     }

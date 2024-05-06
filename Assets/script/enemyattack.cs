@@ -8,7 +8,8 @@ public class enemyattack : MonoBehaviour
     public LayerMask layerplayer;
     public Transform attackpoint;
     public float attackrange;
-    private Animator anim;
+    public Animator anim;
+    public float attkdamage=10;
     
 
     // Start is called before the first frame update
@@ -20,7 +21,7 @@ public class enemyattack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       if(Input.GetKeyDown("0"))
+       if(Input.GetKeyDown(KeyCode.P))
         {
             attack();
         }
@@ -30,6 +31,16 @@ public class enemyattack : MonoBehaviour
         
         anim.SetTrigger("attack");
         Collider2D[] hitplayer = Physics2D.OverlapCircleAll(attackpoint.position, attackrange, layerplayer);
+        foreach (Collider2D player in hitplayer)
+        {
+            player.GetComponent<playerHP>().TakeDame((int)attkdamage);
+        }
 
+    }
+    void OnDrawGizmosSelected()
+    {
+        if (attackpoint == null)
+            return;
+        Gizmos.DrawWireSphere(attackpoint.position, attackrange);
     }
 }
