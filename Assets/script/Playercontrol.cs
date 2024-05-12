@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Movement : MonoBehaviour
 {
+    public Text cointext;
     public float speed = 5f;
     private Animator animator;
     private Rigidbody2D rb;
@@ -15,9 +18,10 @@ public class Movement : MonoBehaviour
     public Transform groundCheck;
     public LayerMask groundLayer;
     private bool isGrounded;
+    public int coincount;
     void Start()
     {
-        animator = GetComponent<Animator>();    
+        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
     }
 
@@ -40,7 +44,7 @@ public class Movement : MonoBehaviour
         if (isGrounded && Input.GetKeyDown(KeyCode.W))
         {
             animator.SetTrigger("jump");
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce*Time.deltaTime);
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce * Time.deltaTime);
         }
         /*if (rb.velocity.y < 0)
         {
@@ -52,6 +56,7 @@ public class Movement : MonoBehaviour
             animator.SetTrigger("jump");
             rb.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
         }*/
+        cointext.text = coincount.ToString();
     }
 
     void FixedUpdate()
@@ -66,5 +71,15 @@ public class Movement : MonoBehaviour
         scale.x *= -1;
         transform.localScale = scale;
     }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("coin"))
+        {
+            Destroy(other.gameObject);
+            coincount += 1; 
+        }
+    }
+    
+
 }
 
