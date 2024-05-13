@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class playerHP : MonoBehaviour
 {
+    public AudioManager manager;
     public HealthbarMain healthbarMain;
     public Animator animator;
     public int maxhealth = 100;
@@ -12,6 +13,7 @@ public class playerHP : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        manager = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
         animator = GetComponent<Animator>();
         currenthp = maxhealth;
         healthbarMain.SetMaxhealth(maxhealth);
@@ -24,6 +26,7 @@ public class playerHP : MonoBehaviour
     }
     public void TakeDame(int damage)
     {
+        manager.PlaySFX(manager.maingethurt);
         currenthp -= damage;
         Debug.Log(currenthp);
         healthbarMain.SetHealth(currenthp);

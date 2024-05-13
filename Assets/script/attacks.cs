@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class attacks : MonoBehaviour
 {
+    public AudioManager audioManager;
     public Animator animator;
     public Transform attackpoint;
     public float attackRange = 0.7f;
@@ -15,8 +16,8 @@ public class attacks : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        animator = GetComponent<Animator>();
-
+        animator =GetComponent<Animator>();
+        audioManager = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();    
         
     }
 
@@ -25,7 +26,8 @@ public class attacks : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.K)/* && Input.GetKeyDown(KeyCode.J)*/)
         {
-            if(Time.time >= nextattacktime) { 
+            if(Time.time >= nextattacktime) {
+                audioManager.PlaySFX(audioManager.kick1);
                 animator.SetTrigger("kick1");
                 attack();
                 nextattacktime = Time.time + 1f / attackrate;
@@ -34,7 +36,7 @@ public class attacks : MonoBehaviour
 
         if (Input.GetKey(KeyCode.S) && Input.GetKeyDown(KeyCode.K))
         {
-            
+                audioManager.PlaySFX(audioManager.kick2);
                 animator.SetTrigger("kick2");
                 attack();
                 
@@ -45,6 +47,7 @@ public class attacks : MonoBehaviour
         {
             if (Time.time >= nextattacktime)
             {
+                audioManager.PlaySFX(audioManager.punch1);
                 animator.SetTrigger("punch1");
                 attack();
                 nextattacktime = Time.time + 1f / attackrate;
@@ -53,8 +56,8 @@ public class attacks : MonoBehaviour
 
         if (Input.GetKey(KeyCode.S) && Input.GetKeyDown(KeyCode.J))
         {
-           
-                animator.SetTrigger("punch2");
+            audioManager.PlaySFX(audioManager.punch2);
+            animator.SetTrigger("punch2");
                 attack();
             
         }

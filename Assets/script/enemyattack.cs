@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class enemyattack : MonoBehaviour
 {
+    public AudioManager audio;
     public LayerMask layerplayer;
     public Transform attackpoint;
     public float attackrange;
@@ -15,6 +16,7 @@ public class enemyattack : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        audio= GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
         anim = GetComponent<Animator>();    
     }
 
@@ -28,7 +30,7 @@ public class enemyattack : MonoBehaviour
     }
     void attack()
     {
-        
+        audio.PlaySFX(audio.punch1);
         anim.SetTrigger("attack");
         Collider2D[] hitplayer = Physics2D.OverlapCircleAll(attackpoint.position, attackrange, layerplayer);
         foreach (Collider2D player in hitplayer)

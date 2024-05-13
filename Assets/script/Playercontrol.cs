@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class Movement : MonoBehaviour
 {
+    public  AudioManager manager;
     public Text cointext;
     public float speed = 5f;
     private Animator animator;
@@ -21,6 +22,7 @@ public class Movement : MonoBehaviour
     public int coincount;
     void Start()
     {
+        manager= GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
     }
@@ -75,6 +77,7 @@ public class Movement : MonoBehaviour
     {
         if (other.gameObject.CompareTag("coin"))
         {
+            manager.PlaySFX(manager.collectcoin);
             Destroy(other.gameObject);
             coincount += 1; 
         }
