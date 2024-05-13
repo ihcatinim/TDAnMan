@@ -29,7 +29,7 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
+        //isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
         // Input
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
@@ -43,10 +43,10 @@ public class Movement : MonoBehaviour
             animator.SetBool("run", true);
             Flip();
         }
-        if (isGrounded && Input.GetKeyDown(KeyCode.W))
+        if (/*isGrounded &&*/ Input.GetKeyDown(KeyCode.W))
         {
             animator.SetTrigger("jump");
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce * Time.deltaTime);
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce );
         }
         /*if (rb.velocity.y < 0)
         {

@@ -1,0 +1,2195 @@
+fileFormatVersion: 2
+guid: 5af61b18897c5514e91a4ce0133228e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 478
+        width: 88
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f798ab35dcb4e74eb6c97586c23bbc8
+      internalID: -1972258399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 478
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2b0ba470194949980845d98149891
+      internalID: 541492227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 432
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854d905dc523bed4ca2b5292d06851d2
+      internalID: -934077675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 432
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b1608fb1966164d853dbaf13378cfe
+      internalID: 51328381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 432
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f42e0078951709409a8f4b4cab8f508
+      internalID: -1369859411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 432
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042d22fd9916e14abb39363233a97dd
+      internalID: 1563052954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 432
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fae2e9c904b6424ea84dd47374fdb0d
+      internalID: -1600636391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 432
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088357b9ff773564a9f21a84528bfd61
+      internalID: 1313069296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_8
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 432
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5a040b77c89a74a91b40c8b29f8db6
+      internalID: -1571821239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 432
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945d3a41f7e0b2468321318166bf88b
+      internalID: -121255636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 432
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5760b0dbe7b8de541befa027b940b998
+      internalID: -795606831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_11
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 432
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a89b02e4e3d12e4a9b2731683c61d87
+      internalID: -2062802085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e564fc2153d4b4f981e64f5e00ec97
+      internalID: 2110347706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 409
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56a7c748bc6324899e4e23cf3b1b31
+      internalID: 444328763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 409
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d5561e6999ee4da2cca163c716e00
+      internalID: 1805927580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 413
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d238b4b9e49ae24f8fcfb9f3814d58c
+      internalID: -852301015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 413
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea1660e00d13794c9b6cec9e4f0df8f
+      internalID: 434918028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 413
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f4592e9159f34191618dc039fe3f8
+      internalID: 1269937771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 413
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39b25149b7be96459f2d8d7c441c73c
+      internalID: 1984066654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 413
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9594fae90ae1abe48b08dffb5b2bfac4
+      internalID: 1457681584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 447
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c056de06301daf47ab618aad8d38a77
+      internalID: 1263192072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 447
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f1160dad79a94d8a7d2c602ba4e55
+      internalID: -1692342640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 447
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff39ecf3fee68439f7bf1cb8854486
+      internalID: -1255344639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 447
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4434d6bb221f9f84ab03eac5ba34f904
+      internalID: -662751169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 456
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d38be777dffdf4ba031cb977e9b7c4
+      internalID: 1915562900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 454
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720297610b84784281fb1c4ddb944db
+      internalID: -1681820835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_26
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 432
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5cf41479f4315408a5f827ea93c9df
+      internalID: -1780895548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 413
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b630d0de0eea59419642073fcf84275
+      internalID: -715953064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 413
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e2e4f75ca1fc64fb7cda6818a50f7d
+      internalID: 664424877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 364
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6e7480c1b1494fb89289b43d0c5fa
+      internalID: -2090935615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_30
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 364
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b76ce6bdd073346be8fd2b20dbd62f
+      internalID: -515654820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_31
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 364
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af133aa8b3df8b34bb3f5f05c2e99ff5
+      internalID: 752589658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_32
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 377
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1945e645464e744a313d1bfebcfb89
+      internalID: -688791787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_33
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 377
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58dca7b8679d2541bd9d8b76681f1f5
+      internalID: 1218581652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_34
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 377
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798ee870820acd4c93e11214f7fa123
+      internalID: -327474767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 366
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3f4ad227644048ba9e09d5c4b79ab
+      internalID: 2074341533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 366
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2b445e07ea3c4e9adcafc2f419253
+      internalID: 277310218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 379
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ce1faa23227e4eaad8c2ce8a4f9b5
+      internalID: 234457673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 379
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347154d2b8fcad41ae4241b62ae838c
+      internalID: -392538493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 388
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ebd415193dee74e888c7ac6eb4aa13
+      internalID: 801752557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 388
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef0d0550137dc49be9a446f85a68f7
+      internalID: 1692472067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 388
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92933fcf5a5647148bcdb00bd3aec5df
+      internalID: -769757419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_42
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 388
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33605efaa49d24f96e231e6f2a1551
+      internalID: 388678746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 388
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dee571d1e167442ac29f415d0c3a34
+      internalID: 1609374578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 388
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ecb8f18091a4745b07d29650568e49
+      internalID: -2042353650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 379
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b7119710dd3344f848a27205cff006
+      internalID: -811916105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 366
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba484a2f9a580924ebd95a92b1c73871
+      internalID: 1369003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_47
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 366
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051acb1c8ee8dda439c62279af6c7d20
+      internalID: -781747467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 366
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f47b4614837a449f4bb37af25c265
+      internalID: -1704291011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 366
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383fea11bdac6a4c9a717d0a9e26ddd
+      internalID: -1090189740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 366
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56848bcaaeb1b224baee6f566fd3c4ca
+      internalID: 368102242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_51
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 366
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4ca06e67ee9644acca444eec99c7a
+      internalID: 1279983762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 345
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c4e0ad61064c41a7250b857b0b1cb
+      internalID: -1272537686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 345
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da0504375113ff44b892d9732fe8c70
+      internalID: 1176350280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 345
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c66739ee33bf46932aa3941a83847
+      internalID: -857205322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 344
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d7b571dfd81b6409f4b4b8ed463519
+      internalID: -213465375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 345
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b50c8efd21a14c8b6ff73ea787fdf
+      internalID: -1159680988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 345
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9eeafd1e445ad4a95291aebe355e12
+      internalID: 241253586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 350
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02475b3141f9b94986434b07149b0ca
+      internalID: 1987900644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_59
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 349
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e7c684f761624da6d74197d2b7cb1
+      internalID: -1716711971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 285
+        width: 4
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9f010aa74e634d87078f1a448acfd
+      internalID: -1193242114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 285
+        width: 4
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed593e8cdc3fcd241a9a3389ab5882d6
+      internalID: -1189494036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 286
+        width: 5
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e755304228c29240bd6a26d8cad65c5
+      internalID: 406490211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 286
+        width: 5
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046ed10d6df5d5e42a4f474e52bca461
+      internalID: -1982876631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccca351c4715e04ea44290a165f00f3
+      internalID: 230784717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 326
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d912f8cf31a54d800609a693b1e21
+      internalID: -2141709381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_66
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 314
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ec86791a482c4d80b39360b1715b3
+      internalID: 1221936163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_67
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 314
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656845394facfe46b9126e79f59e155
+      internalID: -191463421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_68
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 314
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b280793cb85b4089405d07121ed5e
+      internalID: -914280075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_69
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 314
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f4017307351fe4992fe02a3f35f3d8
+      internalID: 1881263965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 285
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8cd595b3138b244a41180503e43830
+      internalID: -849622925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 285
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b425395893d24f8738d7cb30159bf
+      internalID: -1461898557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc4abdba2a0efa44b7462afdb504e82
+      internalID: -1070564976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0757d8bb9863010439deed5bc7165b4b
+      internalID: -514177278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 272
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ae143ddc784841b9ec885fa57d098
+      internalID: 646149206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 272
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b989da5a245b14396fb4b2514621df
+      internalID: 816121915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3e9946f11b2744b6b8bae8b6b527b
+      internalID: -920705060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 273
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc501c23f5d7c84784374ae85c78aad
+      internalID: 1829441980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 273
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607473fa6c140f342953e4b1acddc5da
+      internalID: -1945790728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 273
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb0256d4b06bf4bb1591e2ee5663a1
+      internalID: -1638250493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_80
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdeaa7a17401354786cfa4dd697c372
+      internalID: -574579917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60a80555e041543ab2687ff664551c
+      internalID: -1835677476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 273
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924bf8641f98904597112f8bcb2715e
+      internalID: 1447983928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_83
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 205
+        width: 4
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af79a168f4cde4f9569ddfa0a129a7
+      internalID: -154466894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 205
+        width: 4
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cbaad7bfdf57b4c80a9ceb67d51357
+      internalID: 103348192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 205
+        width: 4
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703cc11694e3be48b5596355a488706
+      internalID: 491757401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec9f2546845e7847a174e8ea17d3682
+      internalID: 514056327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_87
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9858ffe77981f30428ea5a64623769ad
+      internalID: -955881794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cba1cb6f87eca41a0630934e64a991
+      internalID: -328673748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643d00cbed9a3c409b21be92ec30fc3
+      internalID: -319560996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 100
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122e32e588d8894d8736b84340f6b80
+      internalID: -501090596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 100
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f146b6c98bde44a1f434a812c402b
+      internalID: -1852734269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e932f242e06248a057e470fbbd7ee
+      internalID: 1724898973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Lincoln_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 10
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3d8ac29b949374b946b37a616c812e
+      internalID: -768661087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Dan The Man - Lincoln_0: -1972258399
+      Mobile - Dan The Man - Lincoln_1: 541492227
+      Mobile - Dan The Man - Lincoln_10: -795606831
+      Mobile - Dan The Man - Lincoln_11: -2062802085
+      Mobile - Dan The Man - Lincoln_12: 2110347706
+      Mobile - Dan The Man - Lincoln_13: 444328763
+      Mobile - Dan The Man - Lincoln_14: 1805927580
+      Mobile - Dan The Man - Lincoln_15: -852301015
+      Mobile - Dan The Man - Lincoln_16: 434918028
+      Mobile - Dan The Man - Lincoln_17: 1269937771
+      Mobile - Dan The Man - Lincoln_18: 1984066654
+      Mobile - Dan The Man - Lincoln_19: 1457681584
+      Mobile - Dan The Man - Lincoln_2: -934077675
+      Mobile - Dan The Man - Lincoln_20: 1263192072
+      Mobile - Dan The Man - Lincoln_21: -1692342640
+      Mobile - Dan The Man - Lincoln_22: -1255344639
+      Mobile - Dan The Man - Lincoln_23: -662751169
+      Mobile - Dan The Man - Lincoln_24: 1915562900
+      Mobile - Dan The Man - Lincoln_25: -1681820835
+      Mobile - Dan The Man - Lincoln_26: -1780895548
+      Mobile - Dan The Man - Lincoln_27: -715953064
+      Mobile - Dan The Man - Lincoln_28: 664424877
+      Mobile - Dan The Man - Lincoln_29: -2090935615
+      Mobile - Dan The Man - Lincoln_3: 51328381
+      Mobile - Dan The Man - Lincoln_30: -515654820
+      Mobile - Dan The Man - Lincoln_31: 752589658
+      Mobile - Dan The Man - Lincoln_32: -688791787
+      Mobile - Dan The Man - Lincoln_33: 1218581652
+      Mobile - Dan The Man - Lincoln_34: -327474767
+      Mobile - Dan The Man - Lincoln_35: 2074341533
+      Mobile - Dan The Man - Lincoln_36: 277310218
+      Mobile - Dan The Man - Lincoln_37: 234457673
+      Mobile - Dan The Man - Lincoln_38: -392538493
+      Mobile - Dan The Man - Lincoln_39: 801752557
+      Mobile - Dan The Man - Lincoln_4: -1369859411
+      Mobile - Dan The Man - Lincoln_40: 1692472067
+      Mobile - Dan The Man - Lincoln_41: -769757419
+      Mobile - Dan The Man - Lincoln_42: 388678746
+      Mobile - Dan The Man - Lincoln_43: 1609374578
+      Mobile - Dan The Man - Lincoln_44: -2042353650
+      Mobile - Dan The Man - Lincoln_45: -811916105
+      Mobile - Dan The Man - Lincoln_46: 1369003
+      Mobile - Dan The Man - Lincoln_47: -781747467
+      Mobile - Dan The Man - Lincoln_48: -1704291011
+      Mobile - Dan The Man - Lincoln_49: -1090189740
+      Mobile - Dan The Man - Lincoln_5: 1563052954
+      Mobile - Dan The Man - Lincoln_50: 368102242
+      Mobile - Dan The Man - Lincoln_51: 1279983762
+      Mobile - Dan The Man - Lincoln_52: -1272537686
+      Mobile - Dan The Man - Lincoln_53: 1176350280
+      Mobile - Dan The Man - Lincoln_54: -857205322
+      Mobile - Dan The Man - Lincoln_55: -213465375
+      Mobile - Dan The Man - Lincoln_56: -1159680988
+      Mobile - Dan The Man - Lincoln_57: 241253586
+      Mobile - Dan The Man - Lincoln_58: 1987900644
+      Mobile - Dan The Man - Lincoln_59: -1716711971
+      Mobile - Dan The Man - Lincoln_6: -1600636391
+      Mobile - Dan The Man - Lincoln_60: -1193242114
+      Mobile - Dan The Man - Lincoln_61: -1189494036
+      Mobile - Dan The Man - Lincoln_62: 406490211
+      Mobile - Dan The Man - Lincoln_63: -1982876631
+      Mobile - Dan The Man - Lincoln_64: 230784717
+      Mobile - Dan The Man - Lincoln_65: -2141709381
+      Mobile - Dan The Man - Lincoln_66: 1221936163
+      Mobile - Dan The Man - Lincoln_67: -191463421
+      Mobile - Dan The Man - Lincoln_68: -914280075
+      Mobile - Dan The Man - Lincoln_69: 1881263965
+      Mobile - Dan The Man - Lincoln_7: 1313069296
+      Mobile - Dan The Man - Lincoln_70: -849622925
+      Mobile - Dan The Man - Lincoln_71: -1461898557
+      Mobile - Dan The Man - Lincoln_72: -1070564976
+      Mobile - Dan The Man - Lincoln_73: -514177278
+      Mobile - Dan The Man - Lincoln_74: 646149206
+      Mobile - Dan The Man - Lincoln_75: 816121915
+      Mobile - Dan The Man - Lincoln_76: -920705060
+      Mobile - Dan The Man - Lincoln_77: 1829441980
+      Mobile - Dan The Man - Lincoln_78: -1945790728
+      Mobile - Dan The Man - Lincoln_79: -1638250493
+      Mobile - Dan The Man - Lincoln_8: -1571821239
+      Mobile - Dan The Man - Lincoln_80: -574579917
+      Mobile - Dan The Man - Lincoln_81: -1835677476
+      Mobile - Dan The Man - Lincoln_82: 1447983928
+      Mobile - Dan The Man - Lincoln_83: -154466894
+      Mobile - Dan The Man - Lincoln_84: 103348192
+      Mobile - Dan The Man - Lincoln_85: 491757401
+      Mobile - Dan The Man - Lincoln_86: 514056327
+      Mobile - Dan The Man - Lincoln_87: -955881794
+      Mobile - Dan The Man - Lincoln_88: -328673748
+      Mobile - Dan The Man - Lincoln_89: -319560996
+      Mobile - Dan The Man - Lincoln_9: -121255636
+      Mobile - Dan The Man - Lincoln_90: -501090596
+      Mobile - Dan The Man - Lincoln_91: -1852734269
+      Mobile - Dan The Man - Lincoln_92: 1724898973
+      Mobile - Dan The Man - Lincoln_93: -768661087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
