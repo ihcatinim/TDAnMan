@@ -6,13 +6,13 @@ using UnityEngine.UI;
 
 public class Movement : MonoBehaviour
 {
-    public  AudioManager manager;
+    public AudioManager manager;
     public Text cointext;
     public float speed = 5f;
     private Animator animator;
     private Rigidbody2D rb;
     public float jumpForce = 10f;
-   
+
     private Vector2 movement;
     private bool facingRight = true;
     public Transform groundCheck;
@@ -21,7 +21,7 @@ public class Movement : MonoBehaviour
     public int coincount;
     void Start()
     {
-        manager= GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
+        manager = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
     }
@@ -30,25 +30,33 @@ public class Movement : MonoBehaviour
     {
         //isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
         // Input
+        movement = Vector2.zero;
         movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
         if (movement.x > 0 && !facingRight)
         {
-            rb.velocity = new Vector2(movement.x*speed , movement.y);
             animator.SetBool("run", true);
             Flip();
         }
         else if (movement.x < 0 && facingRight)
         {
-            rb.velocity = new Vector2(movement.x * speed, movement.y);
             animator.SetBool("run", true);
             Flip();
         }
+        movement = movement * speed;
         if (/*isGrounded &&*/ Input.GetKeyDown(KeyCode.W))
         {
+            Debug.Log("move up");
+            movement.y = jumpForce;
             animator.SetTrigger("jump");
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce );
         }
+        if (movement.normalized.magnitude > 0)
+        {
+            Debug.Log($"velocity: {movement}");
+            if (movement.y == 0)
+                movement.y = rb.velocity.y;
+            rb.velocity = movement;
+        }
+
         /*if (rb.velocity.y < 0)
         {
            
@@ -65,7 +73,7 @@ public class Movement : MonoBehaviour
     void FixedUpdate()
     {
         // Movement
-       // rb.MovePosition(rb.position + movement * speed);
+        // rb.MovePosition(rb.position + movement * speed);
     }
     void Flip()
     {
@@ -80,10 +88,10 @@ public class Movement : MonoBehaviour
         {
             manager.PlaySFX(manager.collectcoin);
             Destroy(other.gameObject);
-            coincount += 1; 
+            coincount += 1;
         }
     }
-    
+
 
 }
 
