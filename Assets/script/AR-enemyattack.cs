@@ -5,27 +5,39 @@ using UnityEngine;
 
 public class enemyattack : MonoBehaviour
 {
+    public float attackrate = 2f;
+    float nextattacktime = 0f;
     public AudioManager audio;
     public LayerMask layerplayer;
     public Transform attackpoint;
     public float attackrange;
     public Animator anim;
     public float attkdamage=10;
+    public Transform player;
+    public Rigidbody2D rb;
     
 
     // Start is called before the first frame update
     void Start()
     {
-        audio= GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
+        rb = GetComponent<Rigidbody2D>();
+        player = GameObject.FindGameObjectWithTag("Player").transform;
+        audio = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
         anim = GetComponent<Animator>();    
     }
 
     // Update is called once per frame
     void Update()
     {
-       if(Input.GetKeyDown(KeyCode.P))
+        if (Vector2.Distance(rb.position,player.position)<=attackrange)
         {
-            attack();
+            if (Time.time >= nextattacktime)
+            {
+               
+                attack();
+                nextattacktime = Time.time +  attackrate;
+            }
+            
         }
     }
     void attack()

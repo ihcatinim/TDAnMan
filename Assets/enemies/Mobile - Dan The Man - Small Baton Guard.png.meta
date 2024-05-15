@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,3661 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 581
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cbeb1de1b9a4641812c079600dadec
+      internalID: -803911191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 581
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6badb194d260742b07de7fd85d4ae4
+      internalID: -1777016761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 581
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5819d1c298c2484e8554f2430eeb381
+      internalID: -529629131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 581
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03898ba5b2236444890c4541fb3864b9
+      internalID: 982116836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 581
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92e1dcdb8d5054a99db0c9b27d03f2
+      internalID: -614063000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 581
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a2cd20ef72a0b4fbc6917b83f3d1a5
+      internalID: -2067471156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 581
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f4746cd0bea14fb07472ee225be70
+      internalID: 1237210917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 581
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb5fe60025e8554aa9828235b78417c
+      internalID: -281667286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 581
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4c115cf3949540bddd289e8b1aa82
+      internalID: 124403886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 581
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f51a97c9dc7a4ca762cc9d579f35c
+      internalID: -117909633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 581
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca347bea476a7fd45a90afaf844868f1
+      internalID: 176842465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 581
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a861aed8cf29e194e8dcbb73ca1950a8
+      internalID: 1534739172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 581
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdbbf6ccb9855a47aa51dad8a60a9c5
+      internalID: -1387814868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 581
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b658f3c24f804da4492b33c5c650f277
+      internalID: 909580323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 581
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba985d2d468e5fc4ab9314202a155e9b
+      internalID: -1068205229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 581
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715f032d6f8cd7408a517413d9bb832
+      internalID: -1205784488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 581
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613cde8201690db40a364adadeebed57
+      internalID: 740937715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_17
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 581
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e89bb3e6c9204dab1c6901b7e9e40
+      internalID: 866612647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_18
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 589
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4281f3ab2112e4cba2130f544cf942
+      internalID: 582143319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 587
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69019cba31b3d544a88b61125d0395b
+      internalID: 380760383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 584
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb59eec7266cb42ace5bf535b920a6
+      internalID: -1474949847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 587
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3932c2b0c066409993557619c27e1
+      internalID: -1930647278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_22
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 588
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa189c6810c9c84a882bc72af0fb8c9
+      internalID: 493709977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 588
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c054ccb956b3c41a20e33be59c00c3
+      internalID: -2051766457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_24
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 585
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60779b0d900e3f945bb4dc1210b6352a
+      internalID: 1272035799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_25
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 586
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724859bbec329d41baf5e05ed4e2b1c
+      internalID: 350278059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 526
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173f2275625e8e44ab9e88d49e2fb95
+      internalID: 1283526176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 526
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20e05e2162a2c4ba834e14ef6307ae
+      internalID: -1035262922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 526
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8035ce876eef43be0f1c9cc144df1
+      internalID: 1948856976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 526
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f2113686b28c42bbe15cf49efe06d
+      internalID: -27421900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 526
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353750f556c0554094835f9734a7d78
+      internalID: 1113770813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 526
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fce18a79e69ec544b930f62d234f566
+      internalID: 906282587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 526
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03e2ba48b68e049a20488762c6d7b8
+      internalID: 1261186172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 526
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480a479c394a7d448817be095b95acd
+      internalID: 1228395683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 526
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa3ed4071f20648a208caf68320c9f
+      internalID: -463490315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 526
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327f86c7914b1142b50fb897c141d4c
+      internalID: 58058995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 526
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eef87e4798db64fbd2a290e5d7d5a6
+      internalID: 902254319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 526
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9853a398cc835f64b863f880bdb99762
+      internalID: 1190210637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 526
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b233f1072c685234eb858f9e3c61d9aa
+      internalID: 125630728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 526
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e9ef00b1193c4d86714dd1bcefbed
+      internalID: -1323314557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 526
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b4c48f72794704cb3f510bf5428266
+      internalID: -1948808259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 526
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b13c3c00fe97d4da9bb2eaf1af150e
+      internalID: 1847815621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_42
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 526
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484650ec51ca45b46a21beefdb6c1997
+      internalID: -1007392078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_43
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 526
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b4cad19d01f3439e012e5ef5d2c67
+      internalID: -1571201597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 526
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6bfb607272c6d46a037c5a5e6fb0b3
+      internalID: -84825687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_45
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 526
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d583cd49c1c7e554481aa771836eff7e
+      internalID: 718448921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_46
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 524
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b32171afea1e4b865760e1df1c0c3
+      internalID: -1193515523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_47
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 524
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c17147c5a10544b5abf93080c2b64
+      internalID: -1075219388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_48
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 524
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df7ef9efd812d42b05b433f219dd86
+      internalID: -862947908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_49
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 531
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162438140fcab994282f61ce450eaae4
+      internalID: 386100843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 471
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99de37de43d6e24b950221f5b03e0df
+      internalID: -943043048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 471
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f080e7b5eec59be4985674b371531aee
+      internalID: 796971735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 471
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e806adbecc9a52478131dd79f5ca702
+      internalID: -1078447796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 471
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00869e15acb035c489baa53749b98979
+      internalID: 19954310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 471
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15298c4b1258e45b0d01a4ccf3d17c
+      internalID: -981675520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 471
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caafb3baf0d31fb41a194a8a8fe954cf
+      internalID: -408587194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 471
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84fc8f267f2c46418aa15f4c1937a90
+      internalID: -1830188099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 471
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb88bc28de61efa45b9f6d96de116975
+      internalID: -2076287723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 471
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7288d7cdf02ffd44a49a0c2b6c1230f
+      internalID: 1961009793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 471
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d745f168198684a9e62fd6ed8dfc6c
+      internalID: -464530397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_60
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 471
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f602998a4b77d304d9ed26ad76630524
+      internalID: 1698222937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_61
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 471
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b662fd58381b0c4893f9b8b8519dc1e
+      internalID: -330353604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_62
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 471
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999e28a0c947654db6d0f6cc8e0f8ed
+      internalID: 1777518042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_63
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 471
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ba1f1cbc248a4c9c6a5061aa7aec9
+      internalID: 932421181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_64
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 471
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcbaa7953b6d8f4a8564a9d945ddd22
+      internalID: -1310466277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_65
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 471
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e2bc0283147648878256c9660e921
+      internalID: -947237956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_66
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 471
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b0ef423c2fb5469dddf2cee1deebd
+      internalID: 1751605866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 416
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210d1347110655f4d8c9690f895e82a1
+      internalID: 1454889362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 417
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2d7128e6d92424fb870a839ceb3fd5
+      internalID: -608261263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653ae093c2a7b204785384a366624de9
+      internalID: -1714049009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 417
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3af5e63cbec7f4fabedd8d0131c3d4
+      internalID: 1320820296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_71
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 417
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49745e7fb0a524a41907b81b1da551cb
+      internalID: -396572421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_72
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 412
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035bd7f9b3c7754c9b8fb7253324bfb
+      internalID: -1801776240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 408
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31c1992c8decde448af43f73dbb4a56
+      internalID: 1463197097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_74
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 410
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ca623d7995a0488c44af8d389d2e5
+      internalID: 1825400359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_75
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 408
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dba60bac07170b44875d32fe4e3da0e
+      internalID: 1924815959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 328
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692529d34c55664ca1e02ed7dc33d07
+      internalID: 1310013277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 328
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 0, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684db499abe00a44b2e4ac4e446248e
+      internalID: 1078283761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 328
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 0, z: 21, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b828b772a06649a652b45fa45cf28
+      internalID: 1385202671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_79
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 328
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 77, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6f2e47ae384c4cad131fac29960de
+      internalID: -1895526596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_80
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 328
+        width: 138
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 71, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d444f5a8eff164a9d1cf8f4dc28a06
+      internalID: 1181011097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_81
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 328
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 17, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5405b022129344ab46c2426bb2eb94
+      internalID: 1044371410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_82
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 328
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 0, z: 11, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32790926a6b9aac4d8738d1003141a7e
+      internalID: -493328316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_83
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 328
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba969004278fa43488b16034c04fd8c9
+      internalID: -1255585935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a6f58892feea14a91caf8bda19ee94
+      internalID: 1080131401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 269
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e19625192f1787438a9ca7e61bf3cfc
+      internalID: -949130112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_86
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b5798dcf1d95c42a7a33cb5f4bd28e
+      internalID: -322148603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 267
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff457de7c1d6aa428c445d13f7472f3
+      internalID: -1820675292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_88
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 269
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9b8d1a7991cf4b8a4eadfab73466c
+      internalID: -1737559032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 269
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7e6227d4452f418422a1cefa41f4d
+      internalID: 2144190626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_90
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 269
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eefe6585ec368448fb37c6d1c0aecf
+      internalID: -1563431544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_91
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 269
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f2072fc3f5adb4e8054813225e0894
+      internalID: -915903884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 269
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe3a19882edeec478b8e74a17f77b52
+      internalID: -987955252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_93
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 269
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea386f30462dfd6419742d40b3fbee7d
+      internalID: 969772644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_94
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 264
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e41498293c2df847a61a170e39710cf
+      internalID: -367097427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 264
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1bbfb33cfe65642abcdd3cba335edf
+      internalID: 1262590333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_96
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 264
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e4b4d5fd2e16a4ab1445ff98fe6609
+      internalID: 262999768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_97
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 264
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ae15dd2084c343a75fe8881bdc354
+      internalID: -1112595730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_98
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 263
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e88f9d94cab3f4e89cff5e237f4750
+      internalID: 741785197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_99
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 263
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d599b7b8b024f32448efe5b25ce0a5dd
+      internalID: -2057769613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_100
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 264
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558ea052b9484c548928d9f3de5d62ad
+      internalID: -1842920577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 264
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130e32a30152774cbc73877fdadba26
+      internalID: 1017298831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_102
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 264
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc0f02edda2e734e9fc7ce1e2dd2701
+      internalID: 927905027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_103
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 264
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5d2143ef485f4c80c69fabc67c36f
+      internalID: -737863278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_104
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 264
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b8afc933855b742b3b3c5b53c6179d
+      internalID: -160067853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_105
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 264
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb47004f3354864b8586951456dc240
+      internalID: 1381320719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_106
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 264
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bade2af4d4aea14eabb9ec152bbe575
+      internalID: 152559506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_107
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 264
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fbed2bcb4a51b46b9fde291a916a9e
+      internalID: -2006093973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 208
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf10a2b255316748ba68021c413c21e
+      internalID: -1671290115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_109
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 208
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767b116e5e701c4a8213b499ceb4ddf
+      internalID: 1800294624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_110
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 208
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afedcefe6fcf5af489172c6f0bcb7384
+      internalID: -879075252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_111
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 209
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6272cd695b4804e81c867efd4cb970
+      internalID: -2024207387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_112
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 209
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da25ccb097eb8b4084d341c89ebceb7
+      internalID: 1532200389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_113
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 209
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9303d3fc1cfd4fbc4a8478bd9deed
+      internalID: -329688078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_114
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 209
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea566f6487c7d42803f1903e17e133
+      internalID: 1508752172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_115
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 209
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c35a24f39b002445a180e8d32e8f4d7
+      internalID: 2066041034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_116
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 209
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223852b79d22e574db695f5625e6d1cd
+      internalID: -515469408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_117
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 151
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f972ff82b2ca81345a271925c73e6c9b
+      internalID: -1389150427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_118
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 157
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c84b2da202b964ea505e5e0ed19b16
+      internalID: -1857398487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_119
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 163
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043d834491d723a41a104c8bd45fe47a
+      internalID: 298911513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_120
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 163
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4b12db1b22034d9ddf2ccfeadd190
+      internalID: -1268703066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_121
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 157
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f2750b864842a46a6186abee7c49a6
+      internalID: 1256159974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_122
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 156
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f350c3e589167648bbf61dcde33ce80
+      internalID: -1342621152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_123
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 156
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c0d96f7cee1da4aa3d08f152dea8ee
+      internalID: -1288216965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_124
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 156
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c4ea3f17b941d48ad8c98e65ac5023
+      internalID: -1364120331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_125
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 156
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207cb2582704e864799de58989c2edab
+      internalID: 1959416651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_126
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 156
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0c3bee35f9e04aa85b25bf52f8f21
+      internalID: -713088682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_127
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 156
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73eb1d60386d34595fe7b62f0254c0
+      internalID: -1548389390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_128
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 156
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574247979152d146b3ea55e9dae0eea
+      internalID: 736468818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 156
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39d5361b531e3e46a1fada3134a6d38
+      internalID: -490920616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_130
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 156
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6774b6a59dab201428e0d9c4ddfc15f6
+      internalID: 270478584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_131
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 156
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971c859a91947d44ac27096f520ca83
+      internalID: 461314242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_132
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 156
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52c36b0ffe4cf34a97f334d7df8a3a6
+      internalID: -316797276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_133
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 156
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3486ada939168c4ca96cfe8b18cab93
+      internalID: 1370639516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_134
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 156
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a35bf229fb56541a8a25e02cfe7ac4
+      internalID: 256977058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 94
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a38756829a083488541e853136ce2c
+      internalID: -375998345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_136
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 94
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b34538b338f74b859731622b259a3
+      internalID: 1210594441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_137
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 94
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be48444ab8c47664bbada6577153cb28
+      internalID: 372119284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_138
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f084485aadee249bce041d13a41d4a
+      internalID: -1612106724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_139
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 94
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019cbf91f34658643ac726c68e8fd651
+      internalID: -1904424984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_140
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 94
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c3d3df6b518948a7543137f60d847
+      internalID: -457023151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 93
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca86726db4f02c4ab8380b24165de8e
+      internalID: 1568088993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_142
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 94
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa6da8582707f14ea03f418e0f9f9ee
+      internalID: 917333457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_143
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 94
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861844638cbb3c449b41502f20f77b37
+      internalID: -1577959321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_144
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 94
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc4e5a76a0f524aa5937a7b06923dd
+      internalID: -525096556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_145
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 95
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4188a6424607334bbd1cdec15390242
+      internalID: 1189166907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_146
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 90
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41adcd757ed16d34bb2def6c8720f735
+      internalID: 351149044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_147
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 92
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc294c3ac4a184ab6055593631a277
+      internalID: -1399301601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_148
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 91
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa94cb937b85348a499d2b13b9b5d9
+      internalID: 1178189403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_149
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 98
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59172f22e55ad47a545f73352bf296
+      internalID: 1281615547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_150
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 98
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e10d001ab1114b89cda5fef867124
+      internalID: -266681342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_151
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 98
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8677ebb31b531ed42af09bded7040924
+      internalID: -1838466778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_152
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 98
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f908ede6c5c554e48b62a98c7d6d54ea
+      internalID: -598084568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_153
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 98
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1dba808a35124d8d208fd86c46daa
+      internalID: -785322551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_154
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 96
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6341945a6d6e42b2af31ad0bdc328
+      internalID: 1456384217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_155
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 46
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1589a417607341aa5f790366c28a6
+      internalID: 305220731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_156
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 46
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1785aef112319d5479f7621862405dd0
+      internalID: -1500810983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_157
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 46
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d441e4fefb66d04a957f9a64b67e4f6
+      internalID: 2117027368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_158
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869b0331ebdbe94c968f249bfbb6b34
+      internalID: -782447933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_159
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 46
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e9a42413980584e9ca9ec100dbdb88
+      internalID: -335649207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ad7cfaa8d7ebf4eb5bf173248c40f2
+      internalID: 1166222001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_161
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 41
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fdeca065a1aec4884adcfff263e2a0
+      internalID: 691865850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_162
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 18
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e10a112b59414db54756540c3a6fe
+      internalID: 1553111000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_163
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d057c1dfd363e743a7fdbe5f3f0b5f3
+      internalID: -379052956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_164
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9cc344f513534aadee92c2f6d5a6b
+      internalID: 1342655188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_165
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f1137174513a4db139749b5634d45
+      internalID: 1084514858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_166
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f32bf47684e3e4ba0a0b69cc10f15f
+      internalID: 1101101600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_167
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b911f067f89ead64d996426d30d55edf
+      internalID: -397157846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 13
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccece84e41f86d4a89fa4ef78173ee9
+      internalID: 1169486720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_169
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512a996063ad194a887ea185d3f6b34
+      internalID: 1283074324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_170
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43375e4eccef013428d41ebd0161bb72
+      internalID: -1467564462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_171
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca0c4d26c3604c4790174d86f38e307
+      internalID: -434472527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_172
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9cce194b194747a4d9ff29c49cb7a
+      internalID: -1167619886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Baton Guard_173
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e91e1e91dbbb4c991c9e50da43df6
+      internalID: 1178303910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +3786,181 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mobile - Dan The Man - Small Baton Guard_0: -803911191
+      Mobile - Dan The Man - Small Baton Guard_1: -1777016761
+      Mobile - Dan The Man - Small Baton Guard_10: 176842465
+      Mobile - Dan The Man - Small Baton Guard_100: -1842920577
+      Mobile - Dan The Man - Small Baton Guard_101: 1017298831
+      Mobile - Dan The Man - Small Baton Guard_102: 927905027
+      Mobile - Dan The Man - Small Baton Guard_103: -737863278
+      Mobile - Dan The Man - Small Baton Guard_104: -160067853
+      Mobile - Dan The Man - Small Baton Guard_105: 1381320719
+      Mobile - Dan The Man - Small Baton Guard_106: 152559506
+      Mobile - Dan The Man - Small Baton Guard_107: -2006093973
+      Mobile - Dan The Man - Small Baton Guard_108: -1671290115
+      Mobile - Dan The Man - Small Baton Guard_109: 1800294624
+      Mobile - Dan The Man - Small Baton Guard_11: 1534739172
+      Mobile - Dan The Man - Small Baton Guard_110: -879075252
+      Mobile - Dan The Man - Small Baton Guard_111: -2024207387
+      Mobile - Dan The Man - Small Baton Guard_112: 1532200389
+      Mobile - Dan The Man - Small Baton Guard_113: -329688078
+      Mobile - Dan The Man - Small Baton Guard_114: 1508752172
+      Mobile - Dan The Man - Small Baton Guard_115: 2066041034
+      Mobile - Dan The Man - Small Baton Guard_116: -515469408
+      Mobile - Dan The Man - Small Baton Guard_117: -1389150427
+      Mobile - Dan The Man - Small Baton Guard_118: -1857398487
+      Mobile - Dan The Man - Small Baton Guard_119: 298911513
+      Mobile - Dan The Man - Small Baton Guard_12: -1387814868
+      Mobile - Dan The Man - Small Baton Guard_120: -1268703066
+      Mobile - Dan The Man - Small Baton Guard_121: 1256159974
+      Mobile - Dan The Man - Small Baton Guard_122: -1342621152
+      Mobile - Dan The Man - Small Baton Guard_123: -1288216965
+      Mobile - Dan The Man - Small Baton Guard_124: -1364120331
+      Mobile - Dan The Man - Small Baton Guard_125: 1959416651
+      Mobile - Dan The Man - Small Baton Guard_126: -713088682
+      Mobile - Dan The Man - Small Baton Guard_127: -1548389390
+      Mobile - Dan The Man - Small Baton Guard_128: 736468818
+      Mobile - Dan The Man - Small Baton Guard_129: -490920616
+      Mobile - Dan The Man - Small Baton Guard_13: 909580323
+      Mobile - Dan The Man - Small Baton Guard_130: 270478584
+      Mobile - Dan The Man - Small Baton Guard_131: 461314242
+      Mobile - Dan The Man - Small Baton Guard_132: -316797276
+      Mobile - Dan The Man - Small Baton Guard_133: 1370639516
+      Mobile - Dan The Man - Small Baton Guard_134: 256977058
+      Mobile - Dan The Man - Small Baton Guard_135: -375998345
+      Mobile - Dan The Man - Small Baton Guard_136: 1210594441
+      Mobile - Dan The Man - Small Baton Guard_137: 372119284
+      Mobile - Dan The Man - Small Baton Guard_138: -1612106724
+      Mobile - Dan The Man - Small Baton Guard_139: -1904424984
+      Mobile - Dan The Man - Small Baton Guard_14: -1068205229
+      Mobile - Dan The Man - Small Baton Guard_140: -457023151
+      Mobile - Dan The Man - Small Baton Guard_141: 1568088993
+      Mobile - Dan The Man - Small Baton Guard_142: 917333457
+      Mobile - Dan The Man - Small Baton Guard_143: -1577959321
+      Mobile - Dan The Man - Small Baton Guard_144: -525096556
+      Mobile - Dan The Man - Small Baton Guard_145: 1189166907
+      Mobile - Dan The Man - Small Baton Guard_146: 351149044
+      Mobile - Dan The Man - Small Baton Guard_147: -1399301601
+      Mobile - Dan The Man - Small Baton Guard_148: 1178189403
+      Mobile - Dan The Man - Small Baton Guard_149: 1281615547
+      Mobile - Dan The Man - Small Baton Guard_15: -1205784488
+      Mobile - Dan The Man - Small Baton Guard_150: -266681342
+      Mobile - Dan The Man - Small Baton Guard_151: -1838466778
+      Mobile - Dan The Man - Small Baton Guard_152: -598084568
+      Mobile - Dan The Man - Small Baton Guard_153: -785322551
+      Mobile - Dan The Man - Small Baton Guard_154: 1456384217
+      Mobile - Dan The Man - Small Baton Guard_155: 305220731
+      Mobile - Dan The Man - Small Baton Guard_156: -1500810983
+      Mobile - Dan The Man - Small Baton Guard_157: 2117027368
+      Mobile - Dan The Man - Small Baton Guard_158: -782447933
+      Mobile - Dan The Man - Small Baton Guard_159: -335649207
+      Mobile - Dan The Man - Small Baton Guard_16: 740937715
+      Mobile - Dan The Man - Small Baton Guard_160: 1166222001
+      Mobile - Dan The Man - Small Baton Guard_161: 691865850
+      Mobile - Dan The Man - Small Baton Guard_162: 1553111000
+      Mobile - Dan The Man - Small Baton Guard_163: -379052956
+      Mobile - Dan The Man - Small Baton Guard_164: 1342655188
+      Mobile - Dan The Man - Small Baton Guard_165: 1084514858
+      Mobile - Dan The Man - Small Baton Guard_166: 1101101600
+      Mobile - Dan The Man - Small Baton Guard_167: -397157846
+      Mobile - Dan The Man - Small Baton Guard_168: 1169486720
+      Mobile - Dan The Man - Small Baton Guard_169: 1283074324
+      Mobile - Dan The Man - Small Baton Guard_17: 866612647
+      Mobile - Dan The Man - Small Baton Guard_170: -1467564462
+      Mobile - Dan The Man - Small Baton Guard_171: -434472527
+      Mobile - Dan The Man - Small Baton Guard_172: -1167619886
+      Mobile - Dan The Man - Small Baton Guard_173: 1178303910
+      Mobile - Dan The Man - Small Baton Guard_18: 582143319
+      Mobile - Dan The Man - Small Baton Guard_19: 380760383
+      Mobile - Dan The Man - Small Baton Guard_2: -529629131
+      Mobile - Dan The Man - Small Baton Guard_20: -1474949847
+      Mobile - Dan The Man - Small Baton Guard_21: -1930647278
+      Mobile - Dan The Man - Small Baton Guard_22: 493709977
+      Mobile - Dan The Man - Small Baton Guard_23: -2051766457
+      Mobile - Dan The Man - Small Baton Guard_24: 1272035799
+      Mobile - Dan The Man - Small Baton Guard_25: 350278059
+      Mobile - Dan The Man - Small Baton Guard_26: 1283526176
+      Mobile - Dan The Man - Small Baton Guard_27: -1035262922
+      Mobile - Dan The Man - Small Baton Guard_28: 1948856976
+      Mobile - Dan The Man - Small Baton Guard_29: -27421900
+      Mobile - Dan The Man - Small Baton Guard_3: 982116836
+      Mobile - Dan The Man - Small Baton Guard_30: 1113770813
+      Mobile - Dan The Man - Small Baton Guard_31: 906282587
+      Mobile - Dan The Man - Small Baton Guard_32: 1261186172
+      Mobile - Dan The Man - Small Baton Guard_33: 1228395683
+      Mobile - Dan The Man - Small Baton Guard_34: -463490315
+      Mobile - Dan The Man - Small Baton Guard_35: 58058995
+      Mobile - Dan The Man - Small Baton Guard_36: 902254319
+      Mobile - Dan The Man - Small Baton Guard_37: 1190210637
+      Mobile - Dan The Man - Small Baton Guard_38: 125630728
+      Mobile - Dan The Man - Small Baton Guard_39: -1323314557
+      Mobile - Dan The Man - Small Baton Guard_4: -614063000
+      Mobile - Dan The Man - Small Baton Guard_40: -1948808259
+      Mobile - Dan The Man - Small Baton Guard_41: 1847815621
+      Mobile - Dan The Man - Small Baton Guard_42: -1007392078
+      Mobile - Dan The Man - Small Baton Guard_43: -1571201597
+      Mobile - Dan The Man - Small Baton Guard_44: -84825687
+      Mobile - Dan The Man - Small Baton Guard_45: 718448921
+      Mobile - Dan The Man - Small Baton Guard_46: -1193515523
+      Mobile - Dan The Man - Small Baton Guard_47: -1075219388
+      Mobile - Dan The Man - Small Baton Guard_48: -862947908
+      Mobile - Dan The Man - Small Baton Guard_49: 386100843
+      Mobile - Dan The Man - Small Baton Guard_5: -2067471156
+      Mobile - Dan The Man - Small Baton Guard_50: -943043048
+      Mobile - Dan The Man - Small Baton Guard_51: 796971735
+      Mobile - Dan The Man - Small Baton Guard_52: -1078447796
+      Mobile - Dan The Man - Small Baton Guard_53: 19954310
+      Mobile - Dan The Man - Small Baton Guard_54: -981675520
+      Mobile - Dan The Man - Small Baton Guard_55: -408587194
+      Mobile - Dan The Man - Small Baton Guard_56: -1830188099
+      Mobile - Dan The Man - Small Baton Guard_57: -2076287723
+      Mobile - Dan The Man - Small Baton Guard_58: 1961009793
+      Mobile - Dan The Man - Small Baton Guard_59: -464530397
+      Mobile - Dan The Man - Small Baton Guard_6: 1237210917
+      Mobile - Dan The Man - Small Baton Guard_60: 1698222937
+      Mobile - Dan The Man - Small Baton Guard_61: -330353604
+      Mobile - Dan The Man - Small Baton Guard_62: 1777518042
+      Mobile - Dan The Man - Small Baton Guard_63: 932421181
+      Mobile - Dan The Man - Small Baton Guard_64: -1310466277
+      Mobile - Dan The Man - Small Baton Guard_65: -947237956
+      Mobile - Dan The Man - Small Baton Guard_66: 1751605866
+      Mobile - Dan The Man - Small Baton Guard_67: 1454889362
+      Mobile - Dan The Man - Small Baton Guard_68: -608261263
+      Mobile - Dan The Man - Small Baton Guard_69: -1714049009
+      Mobile - Dan The Man - Small Baton Guard_7: -281667286
+      Mobile - Dan The Man - Small Baton Guard_70: 1320820296
+      Mobile - Dan The Man - Small Baton Guard_71: -396572421
+      Mobile - Dan The Man - Small Baton Guard_72: -1801776240
+      Mobile - Dan The Man - Small Baton Guard_73: 1463197097
+      Mobile - Dan The Man - Small Baton Guard_74: 1825400359
+      Mobile - Dan The Man - Small Baton Guard_75: 1924815959
+      Mobile - Dan The Man - Small Baton Guard_76: 1310013277
+      Mobile - Dan The Man - Small Baton Guard_77: 1078283761
+      Mobile - Dan The Man - Small Baton Guard_78: 1385202671
+      Mobile - Dan The Man - Small Baton Guard_79: -1895526596
+      Mobile - Dan The Man - Small Baton Guard_8: 124403886
+      Mobile - Dan The Man - Small Baton Guard_80: 1181011097
+      Mobile - Dan The Man - Small Baton Guard_81: 1044371410
+      Mobile - Dan The Man - Small Baton Guard_82: -493328316
+      Mobile - Dan The Man - Small Baton Guard_83: -1255585935
+      Mobile - Dan The Man - Small Baton Guard_84: 1080131401
+      Mobile - Dan The Man - Small Baton Guard_85: -949130112
+      Mobile - Dan The Man - Small Baton Guard_86: -322148603
+      Mobile - Dan The Man - Small Baton Guard_87: -1820675292
+      Mobile - Dan The Man - Small Baton Guard_88: -1737559032
+      Mobile - Dan The Man - Small Baton Guard_89: 2144190626
+      Mobile - Dan The Man - Small Baton Guard_9: -117909633
+      Mobile - Dan The Man - Small Baton Guard_90: -1563431544
+      Mobile - Dan The Man - Small Baton Guard_91: -915903884
+      Mobile - Dan The Man - Small Baton Guard_92: -987955252
+      Mobile - Dan The Man - Small Baton Guard_93: 969772644
+      Mobile - Dan The Man - Small Baton Guard_94: -367097427
+      Mobile - Dan The Man - Small Baton Guard_95: 1262590333
+      Mobile - Dan The Man - Small Baton Guard_96: 262999768
+      Mobile - Dan The Man - Small Baton Guard_97: -1112595730
+      Mobile - Dan The Man - Small Baton Guard_98: 741785197
+      Mobile - Dan The Man - Small Baton Guard_99: -2057769613
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -12,8 +12,7 @@ public class Movement : MonoBehaviour
     private Animator animator;
     private Rigidbody2D rb;
     public float jumpForce = 10f;
-    public float fallMultiplier = 2.5f;
-    public float lowJumpMultiplier = 2f;
+   
     private Vector2 movement;
     private bool facingRight = true;
     public Transform groundCheck;
@@ -35,11 +34,13 @@ public class Movement : MonoBehaviour
         movement.y = Input.GetAxisRaw("Vertical");
         if (movement.x > 0 && !facingRight)
         {
+            rb.velocity = new Vector2(movement.x*speed , movement.y);
             animator.SetBool("run", true);
             Flip();
         }
         else if (movement.x < 0 && facingRight)
         {
+            rb.velocity = new Vector2(movement.x * speed, movement.y);
             animator.SetBool("run", true);
             Flip();
         }
@@ -64,7 +65,7 @@ public class Movement : MonoBehaviour
     void FixedUpdate()
     {
         // Movement
-        rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
+       // rb.MovePosition(rb.position + movement * speed);
     }
     void Flip()
     {

@@ -1,10 +1,9 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class enemy : MonoBehaviour
+public class BTenemy : MonoBehaviour
 {
     public AudioManager audio;
     public Slider slider;
@@ -15,7 +14,7 @@ public class enemy : MonoBehaviour
     void Start()
     {
         audio = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
-        animator = GetComponent<Animator>();    
+        animator = GetComponent<Animator>();
         currenthp = maxhealth;
         SetMaxhealth(currenthp);
     }
@@ -23,7 +22,7 @@ public class enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     public void SetHealth(int health)
     {
@@ -38,18 +37,18 @@ public class enemy : MonoBehaviour
     {
         audio.PlaySFX(audio.enemygethurt);
         currenthp -= damage;
-        Debug.Log("AR"+currenthp);
+        Debug.Log("BT" +currenthp);
         SetHealth(currenthp);
         animator.SetTrigger("hitted");
         if (currenthp <= 0)
         {
-            
+
             Die();
         }
         void Die()
         {
-            animator.SetBool("die",true);
-            GetComponent<Collider2D>().enabled = false; 
+            animator.SetBool("die", true);
+            GetComponent<Collider2D>().enabled = false;
             this.enabled = false;
         }
 
