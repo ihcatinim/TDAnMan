@@ -16,6 +16,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip collectcoin;
     public AudioClip enemygethurt;
     public AudioClip maingethurt;
+    public AudioClip shotgun;
     //tart is called before the first frame update
     void Start()
     {

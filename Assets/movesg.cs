@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 
-public class run_bt : StateMachineBehaviour
+
+
+public class movesg : StateMachineBehaviour
 {
+    public GameObject bullet;
     public float attackrate = 2f;
     float nextattacktime = 0f;
     public AudioManager audio;
@@ -21,8 +23,8 @@ public class run_bt : StateMachineBehaviour
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        player =  GameObject.FindGameObjectWithTag("Player").transform;
-        rb =  animator.GetComponent<Rigidbody2D>();
+        player = GameObject.FindGameObjectWithTag("Player").transform;
+        rb = animator.GetComponent<Rigidbody2D>();
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -35,37 +37,24 @@ public class run_bt : StateMachineBehaviour
             Vector2 newP = Vector2.MoveTowards(rb.position, target, speed * Time.fixedDeltaTime);
             rb.MovePosition(newP);
         }
-    }
-        /*else if (Vector2.Distance(rb.position, player.position) > 8)
-        {
-            animator.SetBool("move", false); 
-        }*/
-
-
         /*if (Vector2.Distance(rb.position, player.position) <= attackrange)
         {
-            attack();
+            animator.SetTrigger("attack");
+            animator.GetComponent<attackSG>().att
 
 
 
-        }
-
+        }*/
+        /*void attack(){
+            Instantiate(bullet, attackpoint.position, attackpoint.rotation);
+        }*/
+        
     }
-    void attack()
-    {
-        audio.PlaySFX(audio.punch1);
-        anim.SetTrigger("attack");
-        Collider2D[] hitplayer = Physics2D.OverlapCircleAll(attackpoint.position, attackrange, layerplayer);
-        foreach (Collider2D player in hitplayer)
-        {
-            player.GetComponent<playerHP>().TakeDame((int)attkdamage);
-        }
 
-    }*/
-    // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
+    //OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        animator.ResetTrigger("attack");
+        
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

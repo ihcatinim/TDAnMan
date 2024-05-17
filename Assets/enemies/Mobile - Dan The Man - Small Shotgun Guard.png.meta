@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,3829 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48d412abd8c6bd48b57d82b13bb8324
+      internalID: -1144591896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57f8f171544cad40a256863aefb3393
+      internalID: 1862957157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b17762670cfbc94b9b8549948600eaa
+      internalID: 173872415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacdd65a2f8985546ab528ffaed97f1d
+      internalID: -572026630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdce54968f551a48ab2a02f2f59a003
+      internalID: 1354987428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 445
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e919d6ca585c15947acf51de8c729cf2
+      internalID: -1000476856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 445
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae155f32424f0546bcb16c4e0656347
+      internalID: 4972242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 445
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e942d0f50c3b42a4c20cd28ced359
+      internalID: -1217217098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 446
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c18e0d7d875a624da3e91f4610c2dba
+      internalID: 964361109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 445
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4a094395cb7d64aa91eb0791b0f8a7
+      internalID: 549727633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 445
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e96e3519704034cacd34bce4121721
+      internalID: 1375855636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703cd7bee805bc84fbe1b06263924fd4
+      internalID: 943106464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363db519a0f1fb944acf31ba30c3b0d1
+      internalID: 2005892394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518f7b2e0c829f429b1ef6752270fbb
+      internalID: 633924951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655fc0120ff52c41b9d7949bf2e4f9c
+      internalID: 1532434199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_15
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfde1aecfd58654c923bfc81b5d14dd
+      internalID: 1846075857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_16
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174974e73678cd4e84509326adf4f23
+      internalID: -1284326054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_17
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 445
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3038dd9fa114f084994f5fb6123704d4
+      internalID: -1707053407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 385
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd12e44b53a9eb4e8666c2b011f53f1
+      internalID: -758109803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 385
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b6c5e3231dee64a9714542dd330d29
+      internalID: 793587765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 385
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820366aa2673d2043a05b26a45fbd191
+      internalID: -1154699495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 385
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6651147855c4f84d9aa14bc56c7cc62
+      internalID: -630335920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 385
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704c36f0d8a0ca4b9c9773e113af0b3
+      internalID: -918817913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49281ab2f6e65834882cbbf556bab3f1
+      internalID: -1184637346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb9e021ada9f8e47a2c251c1659a4d2
+      internalID: 389429375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 385
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941c7cbda1a06844888bb0bbd6df82e0
+      internalID: -589458302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 385
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1df886195af734ca67f3bb575aebe5
+      internalID: 671153139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 385
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2916fb51ef0274cbd8f9db7cc08f76
+      internalID: -1433566189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aea7c59f651714babb13ad5cf78f0e
+      internalID: 12617788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 385
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56828633cb9c6fe4e97da32929be7288
+      internalID: -926813655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_30
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 385
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8e9112e6cc224c91097de76ec0724
+      internalID: -505476464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_31
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 385
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924d5d777be3e747ab57c2862a56715
+      internalID: 1858092276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_32
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 385
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b5f6a29376e4c449975874e8a83082
+      internalID: -66455787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 385
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee3ea62a85b7049aab8c301e1acd2d
+      internalID: -1229047200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_34
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 385
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864d2ff1e09777448bf5034b9b6b416c
+      internalID: -1468000249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_35
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 385
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69103ed75a0464d9f673a6b3c70a86
+      internalID: 1525859569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_36
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 385
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28afbaeeaf62954da0dc02f71d0615d
+      internalID: -1551361527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_37
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 418
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefec8f9da4999f4e87d4207bcaf6162
+      internalID: -1744555588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_38
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 384
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541d9c6afa3afee4799dd8bb54dee233
+      internalID: 951576712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 330
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa6a28819737747b5197f52d3d96fa
+      internalID: -1184765178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 330
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70428314675a2ee4ca01aa7db7bf28b7
+      internalID: 1531836762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 330
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc984fc5f94684590a0d1bdd76f4ad
+      internalID: -265185987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 330
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f183d58e62c4284d8f9709b1a518a5e
+      internalID: -2005840429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 330
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb0fc6ce76dc69428b9971864c5c7ee
+      internalID: 1510532925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 330
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0326d1e7029c6740b57057aa5752662
+      internalID: -215725906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_45
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 330
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841aa40d59a70a4e9e389fe6898ddbe
+      internalID: 160672432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 328
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e306baa75da19a24786fe1ccdc5847bc
+      internalID: -1524904483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_47
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 330
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c62ab22a08f7094dbeb90d6ac1829c3
+      internalID: -1951292508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 330
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472f333433fd7148b4c2b5a33902b3b
+      internalID: 497611364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 330
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbdba485ee1da499be10a4f1e85ff4
+      internalID: -466501621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_50
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 330
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34353abc49b092f4e95e3e40d406830a
+      internalID: 791922168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_51
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 330
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0eb9cb74ce21049b5ae9b6ad89a8d2
+      internalID: 48081630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_52
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 348
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c4a18a672a174d956b650a9757cda
+      internalID: 804682814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_53
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 349
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b9ead0f7b48af48ab2a9c1779ad6e5
+      internalID: 1453248486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_54
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 369
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00328e99c66f44d88ab8eb51c4c93b
+      internalID: 1095153792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_55
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 369
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd50779081f45040addab158fdbfc04
+      internalID: 624581647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_56
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 369
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3760d24e69b80b44fb36a4a2c78f5e9b
+      internalID: 1057424438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_57
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 369
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3419b4788daee745a81a876fcc88c00
+      internalID: -1319086108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_58
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48599fa536ebb47aaef9b12be5ba5c
+      internalID: -268878891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_59
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead399ed9a3b71b43bf8fead1295c8d3
+      internalID: -1364120479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_60
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134354b4af2717e4cb00ba8fd1b46163
+      internalID: -608858714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_61
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f8145cf95fe247bfe338f7c0546c0
+      internalID: 203566483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 349
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db718fa338bbbda4aae7b947feacda97
+      internalID: 1493322743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_63
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d3ac49b8ab2e4680ab7561baee0cc
+      internalID: -1170421183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_64
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3618ee254f7674b9bc30ae535a9715
+      internalID: -1159272401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_65
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc12729b621e004eaa2d4627803137f
+      internalID: -419537039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97292c07329c964da42f88eef6ed828
+      internalID: -1398715941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_67
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b97a013222be041bd655b80b020856
+      internalID: 2138257295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_68
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b0fab2f37cb9a41824d11af4166ae7
+      internalID: 1925096095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_69
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488b2525617b68469ce7e26abb1ad55
+      internalID: 503579057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_70
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab50df7142d5d94aaa3a584bf82eb4f
+      internalID: 900498166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_71
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d13eddfc896dab4392b9f3e7a021a62
+      internalID: -1658570961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_72
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cb304a38af01342ba21f3e50f41a43
+      internalID: 1958672470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_73
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee55f698211bb446a9c065ceea3aee7
+      internalID: 1260308134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_74
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 354
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f04b82db4ca234f845a2301bc06508
+      internalID: 2068858388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 354
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702089f2b1794f74f8226e1726abc666
+      internalID: -1254273311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_76
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 354
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969be47286152dc4595625ca3760a1e9
+      internalID: -1056243345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_77
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 354
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb85137f1e24be4ca72d894311a42af
+      internalID: 1253564775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_78
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b08ccd9eca78ea4a934d38c769bd6d2
+      internalID: -125969834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_79
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541923306e6ef4d4f8f5af7cd08e5b8d
+      internalID: -890603991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_80
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f6d80680e77148ae4b17d9020bfd3
+      internalID: -1242490237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_81
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce14a79443e20343b4c9f5d92d6ab67
+      internalID: 1180953586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_82
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 349
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2544a61049a4104e805118bdab1fe86
+      internalID: -871754088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_83
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 349
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78655132d25ee46a5ab9806988f24e
+      internalID: 1880670291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_84
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 349
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2300714cc75ea504288cdce7c05c1723
+      internalID: 461679296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_85
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 349
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdeb619acac550458cf0ac781c98c9a
+      internalID: -1379910037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abbfdf90e44504cb855399c604313b
+      internalID: 577260711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_87
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81561d9df72be4a4791a70daa0b67da8
+      internalID: -1492722922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_88
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7403a884d92e6e44aad8377a0c0127a
+      internalID: 328454536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_89
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ce573b2acbc641b52009a23754d17
+      internalID: 741559039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 274
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444788386bd3dae4a8f205ee43417e02
+      internalID: -1403042012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 274
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb50fc55acd034e974dc0b7382e10c
+      internalID: 1371374168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 274
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f46f9b83d25894f8343735ba574fd2
+      internalID: 1617651274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 274
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9515561b785fff43855e2b255ffbfb7
+      internalID: -206625602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 274
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a72dec4dbbd949aadc9f946d53fcc
+      internalID: -1879859436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 274
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4f0b6f1f4490478080efa4f585170
+      internalID: 874016784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_96
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 271
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19a5214a6bf214292b38c4a639b75a
+      internalID: 53159112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_97
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 273
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983d54475c8b9964aa97019318fb8743
+      internalID: -1477546477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_98
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 265
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c720f13e535e3d64ca09c46ec1c657c0
+      internalID: -191258647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_99
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 276
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93964357ca0b0e146a890bf46476b064
+      internalID: 1922712113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_100
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 275
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c85514c58540142b3c6176ab083044
+      internalID: 1414769702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_101
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 271
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ee68c861add549b5adb5e201c1cc1
+      internalID: -191737817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_102
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61430499198e2904c9f53ec1192cfafb
+      internalID: -1944400446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_103
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf5dc552fd90a4ebf5d8cb6ba67b92
+      internalID: 1539292568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_104
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11471ee29d95b444a232f1e0fb79d34
+      internalID: -382098459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_105
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b43a21749eddf41a3f9d7ea30591f3
+      internalID: 1711932948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_106
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 265
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1834a428dc801348ac2412ea8220fbc
+      internalID: -66033699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_107
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 273
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a382a2e56c234bab33e9a193a1cb2
+      internalID: -877109995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 205
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487cd3bc989889f41a2f3ddddeb14e69
+      internalID: 349716277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_109
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 205
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029035e88109b540aebada924950821
+      internalID: 839040652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 205
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003636e63c2d6054ab00467e2c40fe44
+      internalID: 910544251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd5d2f8eb51114ab98c01e652e4be7
+      internalID: -1573799694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_112
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 205
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426786dc4f30900498d4a7e052069fe9
+      internalID: 433265072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_113
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 205
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291da6f6ada4114db745df6be3a664a
+      internalID: 1990586358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_114
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 205
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd655692112fd8c4aa1470aff13d56ec
+      internalID: 1254187528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_115
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 205
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45c251e04e6ce489608f33de4f2c72
+      internalID: -44669446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_116
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 205
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643258475e5173d449c329caf9ec71cf
+      internalID: -36802784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_117
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 205
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41993169d0d144f837ecb9694e9ca8
+      internalID: -800217127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_118
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 205
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cf76a5650b1546bd51d590f65ef8a
+      internalID: 1665229103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_119
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 205
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701f6d5a2da8e3e428c365fbd1af8de7
+      internalID: 1955168406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_120
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 205
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeb00a3461abf342b092a60024312e0
+      internalID: -1985464304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_121
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 205
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e01b563aa7d574bbbc88a63c715258
+      internalID: -165311443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_122
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 205
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21740ac49964147b8e09a119b8dfb1
+      internalID: 553575290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_123
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 205
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d540ecaac8a354ebecfe9e673e2042
+      internalID: -153218952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_124
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 205
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9ff522193a704197249e3cbba1faf
+      internalID: 1910078257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_125
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 205
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 0, z: 11, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a2c779962ea4f43afa9bd6ef4b9af5
+      internalID: -944659936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_126
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 235
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ac30b9b6da9743884b7c6e4232bb1
+      internalID: -1263221251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_127
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 205
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 7, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caecb334ed6549e44b5b1ae831585e53
+      internalID: 861519333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_128
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 141
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0927775d5ef8654cb180794a736df80
+      internalID: -1845969528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_129
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 142
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccc89fdb0b7a6049addf8bbbb87d1cb
+      internalID: -422355553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_130
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 142
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de3d1395c148ad409041bba6ff0ba65
+      internalID: 619613967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 142
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04cb3de38512194ba3aa1df3f4202a9
+      internalID: 809023800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_132
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 142
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931510749fe35f47b519a06177cd292
+      internalID: 1793314836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_133
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 142
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57c9b35527db144936769223d3246b
+      internalID: -426255526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_134
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 142
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012230a67757744ab4733dd0afd9a43
+      internalID: 721956655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 142
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2873947e5deb83c4aa69933178aa1eaf
+      internalID: 1504045842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_136
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 142
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3c2ae4ec5ebbe42b6d03364780143b
+      internalID: 1218044234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_137
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 141
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecba0cbe05d5b246a88e08e1c11f982
+      internalID: -180130405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_138
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 141
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf1819d55a4df4189d06def47acb37
+      internalID: -859658409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_139
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 142
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf912388856d6bc408d4205e80ef1cc8
+      internalID: -490301577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_140
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 142
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371c8a52c1553047a728f2f0db9836e
+      internalID: 1214147074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_141
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 142
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3d162bdc359848a481a066f387a6d
+      internalID: -1701217203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_142
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 142
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8277e139ecca429b49cb2abbef004
+      internalID: 878557605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_143
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 142
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3662d8099c2d41b42b8919c9a651742b
+      internalID: -1578986722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_144
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 142
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c2ec51139c59943a53e04dcd90ee53
+      internalID: 911858544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_145
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f269dc3ba70c408002ac4bdf8f170
+      internalID: 359238234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 89
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95354f2db002c458cfd331006ed3a7
+      internalID: 1424345255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_147
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 95
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449db9ea9181e724398bde1ddb3f07a8
+      internalID: 679834223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_148
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 95
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573f0ef8e98aa34c8f63e0c9e83e62a
+      internalID: -1733582951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_149
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 89
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9404116fad0754fb2bd54a31e7e07b
+      internalID: 1323655700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_150
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 88
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e40bba53a9284ca55b2c380dc6a8c
+      internalID: 1360350582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_151
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 88
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c955f4fd958640ab9d6abb60c3390
+      internalID: 576123597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_152
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 88
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916e571075449a4c9e4cde2ac2556fa
+      internalID: -290676075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_153
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 88
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10af1e7e783af4aba1277df52f3737
+      internalID: -853838931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_154
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 88
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f6676a59010744ab116d2a416d598
+      internalID: 1674416412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_155
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 88
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dbdabedadcd054e94ebad5f5376520
+      internalID: -1130082218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_156
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 88
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34763a65824f9c1428e9d9f7d06a938c
+      internalID: 1700229888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_157
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 88
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5447de5a6bf744f8b24ed7270bea36
+      internalID: 1747679916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_158
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 88
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13156bfbf99e64eb6b0cc126251746
+      internalID: 656457314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_159
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 88
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f9ed2969e7f247ad66346d8bc89f5
+      internalID: 189338069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_160
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 88
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f73a05c06ae74ea2e4b409e8ac1ef
+      internalID: -550347167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_161
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 88
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb854ffa8af558c42b56d9795b991357
+      internalID: 1275995196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_162
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 88
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0ef44fb314590409a760b5891b9516
+      internalID: 681383747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_163
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 26
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0319a3989d540f2428b174584a055279
+      internalID: 33593743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_164
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 26
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf4e0991aec2d94fb1fc3e4e7ff5083
+      internalID: 1054250113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_165
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 26
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9dd90a6eb0fe84a87a0ad6c8ab79ea
+      internalID: 173195781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_166
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 26
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75048a2111933944c8ec7744bbd30639
+      internalID: -1611790947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_167
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 26
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5abed6a73267c41b80c12a1dbe154c
+      internalID: 630891641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_168
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 26
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0492703f3937d8a49a62fa44da99992c
+      internalID: -1784103765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_169
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 25
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131452ce6dc5d7a478b25e69d28570e7
+      internalID: 2090594085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_170
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 26
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2322d62d49e2fcc419af3d9e2d68075e
+      internalID: 1397427833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_171
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 26
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b017a7b6d220d9248ad4567b8123e670
+      internalID: 2011522802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_172
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 26
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17e8566db2419547a30eed9a9ccad8d
+      internalID: 1462517422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_173
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 27
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a680942fe5881e042a949ef0563a0cee
+      internalID: 933373619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_174
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 22
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7b3cfde416bd94bab2a6e7e4dc5660
+      internalID: -1142766066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_175
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 24
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4590c65b5d3144b0cab3eef9216ca
+      internalID: 1137688694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_176
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 23
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc3a667c772b4a4cb540589478bd1a4
+      internalID: 673597956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_177
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 30
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333ef2b8832f29448509db14d197118
+      internalID: -595638491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_178
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 30
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c517a7fcbcdcc64fb3cbaf77d019d9c
+      internalID: -777843691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_179
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 30
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847408e02049015419fb5e6fd48b3e3b
+      internalID: -1969331878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_180
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 30
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc0963bd95b3c45badafbdb504b260
+      internalID: 715387558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Small Shotgun Guard_181
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 30
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5288c05dd54345b1abebeeeeeee7d
+      internalID: 435766659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +3954,189 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mobile - Dan The Man - Small Shotgun Guard_0: -1144591896
+      Mobile - Dan The Man - Small Shotgun Guard_1: 1862957157
+      Mobile - Dan The Man - Small Shotgun Guard_10: 1375855636
+      Mobile - Dan The Man - Small Shotgun Guard_100: 1414769702
+      Mobile - Dan The Man - Small Shotgun Guard_101: -191737817
+      Mobile - Dan The Man - Small Shotgun Guard_102: -1944400446
+      Mobile - Dan The Man - Small Shotgun Guard_103: 1539292568
+      Mobile - Dan The Man - Small Shotgun Guard_104: -382098459
+      Mobile - Dan The Man - Small Shotgun Guard_105: 1711932948
+      Mobile - Dan The Man - Small Shotgun Guard_106: -66033699
+      Mobile - Dan The Man - Small Shotgun Guard_107: -877109995
+      Mobile - Dan The Man - Small Shotgun Guard_108: 349716277
+      Mobile - Dan The Man - Small Shotgun Guard_109: 839040652
+      Mobile - Dan The Man - Small Shotgun Guard_11: 943106464
+      Mobile - Dan The Man - Small Shotgun Guard_110: 910544251
+      Mobile - Dan The Man - Small Shotgun Guard_111: -1573799694
+      Mobile - Dan The Man - Small Shotgun Guard_112: 433265072
+      Mobile - Dan The Man - Small Shotgun Guard_113: 1990586358
+      Mobile - Dan The Man - Small Shotgun Guard_114: 1254187528
+      Mobile - Dan The Man - Small Shotgun Guard_115: -44669446
+      Mobile - Dan The Man - Small Shotgun Guard_116: -36802784
+      Mobile - Dan The Man - Small Shotgun Guard_117: -800217127
+      Mobile - Dan The Man - Small Shotgun Guard_118: 1665229103
+      Mobile - Dan The Man - Small Shotgun Guard_119: 1955168406
+      Mobile - Dan The Man - Small Shotgun Guard_12: 2005892394
+      Mobile - Dan The Man - Small Shotgun Guard_120: -1985464304
+      Mobile - Dan The Man - Small Shotgun Guard_121: -165311443
+      Mobile - Dan The Man - Small Shotgun Guard_122: 553575290
+      Mobile - Dan The Man - Small Shotgun Guard_123: -153218952
+      Mobile - Dan The Man - Small Shotgun Guard_124: 1910078257
+      Mobile - Dan The Man - Small Shotgun Guard_125: -944659936
+      Mobile - Dan The Man - Small Shotgun Guard_126: -1263221251
+      Mobile - Dan The Man - Small Shotgun Guard_127: 861519333
+      Mobile - Dan The Man - Small Shotgun Guard_128: -1845969528
+      Mobile - Dan The Man - Small Shotgun Guard_129: -422355553
+      Mobile - Dan The Man - Small Shotgun Guard_13: 633924951
+      Mobile - Dan The Man - Small Shotgun Guard_130: 619613967
+      Mobile - Dan The Man - Small Shotgun Guard_131: 809023800
+      Mobile - Dan The Man - Small Shotgun Guard_132: 1793314836
+      Mobile - Dan The Man - Small Shotgun Guard_133: -426255526
+      Mobile - Dan The Man - Small Shotgun Guard_134: 721956655
+      Mobile - Dan The Man - Small Shotgun Guard_135: 1504045842
+      Mobile - Dan The Man - Small Shotgun Guard_136: 1218044234
+      Mobile - Dan The Man - Small Shotgun Guard_137: -180130405
+      Mobile - Dan The Man - Small Shotgun Guard_138: -859658409
+      Mobile - Dan The Man - Small Shotgun Guard_139: -490301577
+      Mobile - Dan The Man - Small Shotgun Guard_14: 1532434199
+      Mobile - Dan The Man - Small Shotgun Guard_140: 1214147074
+      Mobile - Dan The Man - Small Shotgun Guard_141: -1701217203
+      Mobile - Dan The Man - Small Shotgun Guard_142: 878557605
+      Mobile - Dan The Man - Small Shotgun Guard_143: -1578986722
+      Mobile - Dan The Man - Small Shotgun Guard_144: 911858544
+      Mobile - Dan The Man - Small Shotgun Guard_145: 359238234
+      Mobile - Dan The Man - Small Shotgun Guard_146: 1424345255
+      Mobile - Dan The Man - Small Shotgun Guard_147: 679834223
+      Mobile - Dan The Man - Small Shotgun Guard_148: -1733582951
+      Mobile - Dan The Man - Small Shotgun Guard_149: 1323655700
+      Mobile - Dan The Man - Small Shotgun Guard_15: 1846075857
+      Mobile - Dan The Man - Small Shotgun Guard_150: 1360350582
+      Mobile - Dan The Man - Small Shotgun Guard_151: 576123597
+      Mobile - Dan The Man - Small Shotgun Guard_152: -290676075
+      Mobile - Dan The Man - Small Shotgun Guard_153: -853838931
+      Mobile - Dan The Man - Small Shotgun Guard_154: 1674416412
+      Mobile - Dan The Man - Small Shotgun Guard_155: -1130082218
+      Mobile - Dan The Man - Small Shotgun Guard_156: 1700229888
+      Mobile - Dan The Man - Small Shotgun Guard_157: 1747679916
+      Mobile - Dan The Man - Small Shotgun Guard_158: 656457314
+      Mobile - Dan The Man - Small Shotgun Guard_159: 189338069
+      Mobile - Dan The Man - Small Shotgun Guard_16: -1284326054
+      Mobile - Dan The Man - Small Shotgun Guard_160: -550347167
+      Mobile - Dan The Man - Small Shotgun Guard_161: 1275995196
+      Mobile - Dan The Man - Small Shotgun Guard_162: 681383747
+      Mobile - Dan The Man - Small Shotgun Guard_163: 33593743
+      Mobile - Dan The Man - Small Shotgun Guard_164: 1054250113
+      Mobile - Dan The Man - Small Shotgun Guard_165: 173195781
+      Mobile - Dan The Man - Small Shotgun Guard_166: -1611790947
+      Mobile - Dan The Man - Small Shotgun Guard_167: 630891641
+      Mobile - Dan The Man - Small Shotgun Guard_168: -1784103765
+      Mobile - Dan The Man - Small Shotgun Guard_169: 2090594085
+      Mobile - Dan The Man - Small Shotgun Guard_17: -1707053407
+      Mobile - Dan The Man - Small Shotgun Guard_170: 1397427833
+      Mobile - Dan The Man - Small Shotgun Guard_171: 2011522802
+      Mobile - Dan The Man - Small Shotgun Guard_172: 1462517422
+      Mobile - Dan The Man - Small Shotgun Guard_173: 933373619
+      Mobile - Dan The Man - Small Shotgun Guard_174: -1142766066
+      Mobile - Dan The Man - Small Shotgun Guard_175: 1137688694
+      Mobile - Dan The Man - Small Shotgun Guard_176: 673597956
+      Mobile - Dan The Man - Small Shotgun Guard_177: -595638491
+      Mobile - Dan The Man - Small Shotgun Guard_178: -777843691
+      Mobile - Dan The Man - Small Shotgun Guard_179: -1969331878
+      Mobile - Dan The Man - Small Shotgun Guard_18: -758109803
+      Mobile - Dan The Man - Small Shotgun Guard_180: 715387558
+      Mobile - Dan The Man - Small Shotgun Guard_181: 435766659
+      Mobile - Dan The Man - Small Shotgun Guard_19: 793587765
+      Mobile - Dan The Man - Small Shotgun Guard_2: 173872415
+      Mobile - Dan The Man - Small Shotgun Guard_20: -1154699495
+      Mobile - Dan The Man - Small Shotgun Guard_21: -630335920
+      Mobile - Dan The Man - Small Shotgun Guard_22: -918817913
+      Mobile - Dan The Man - Small Shotgun Guard_23: -1184637346
+      Mobile - Dan The Man - Small Shotgun Guard_24: 389429375
+      Mobile - Dan The Man - Small Shotgun Guard_25: -589458302
+      Mobile - Dan The Man - Small Shotgun Guard_26: 671153139
+      Mobile - Dan The Man - Small Shotgun Guard_27: -1433566189
+      Mobile - Dan The Man - Small Shotgun Guard_28: 12617788
+      Mobile - Dan The Man - Small Shotgun Guard_29: -926813655
+      Mobile - Dan The Man - Small Shotgun Guard_3: -572026630
+      Mobile - Dan The Man - Small Shotgun Guard_30: -505476464
+      Mobile - Dan The Man - Small Shotgun Guard_31: 1858092276
+      Mobile - Dan The Man - Small Shotgun Guard_32: -66455787
+      Mobile - Dan The Man - Small Shotgun Guard_33: -1229047200
+      Mobile - Dan The Man - Small Shotgun Guard_34: -1468000249
+      Mobile - Dan The Man - Small Shotgun Guard_35: 1525859569
+      Mobile - Dan The Man - Small Shotgun Guard_36: -1551361527
+      Mobile - Dan The Man - Small Shotgun Guard_37: -1744555588
+      Mobile - Dan The Man - Small Shotgun Guard_38: 951576712
+      Mobile - Dan The Man - Small Shotgun Guard_39: -1184765178
+      Mobile - Dan The Man - Small Shotgun Guard_4: 1354987428
+      Mobile - Dan The Man - Small Shotgun Guard_40: 1531836762
+      Mobile - Dan The Man - Small Shotgun Guard_41: -265185987
+      Mobile - Dan The Man - Small Shotgun Guard_42: -2005840429
+      Mobile - Dan The Man - Small Shotgun Guard_43: 1510532925
+      Mobile - Dan The Man - Small Shotgun Guard_44: -215725906
+      Mobile - Dan The Man - Small Shotgun Guard_45: 160672432
+      Mobile - Dan The Man - Small Shotgun Guard_46: -1524904483
+      Mobile - Dan The Man - Small Shotgun Guard_47: -1951292508
+      Mobile - Dan The Man - Small Shotgun Guard_48: 497611364
+      Mobile - Dan The Man - Small Shotgun Guard_49: -466501621
+      Mobile - Dan The Man - Small Shotgun Guard_5: -1000476856
+      Mobile - Dan The Man - Small Shotgun Guard_50: 791922168
+      Mobile - Dan The Man - Small Shotgun Guard_51: 48081630
+      Mobile - Dan The Man - Small Shotgun Guard_52: 804682814
+      Mobile - Dan The Man - Small Shotgun Guard_53: 1453248486
+      Mobile - Dan The Man - Small Shotgun Guard_54: 1095153792
+      Mobile - Dan The Man - Small Shotgun Guard_55: 624581647
+      Mobile - Dan The Man - Small Shotgun Guard_56: 1057424438
+      Mobile - Dan The Man - Small Shotgun Guard_57: -1319086108
+      Mobile - Dan The Man - Small Shotgun Guard_58: -268878891
+      Mobile - Dan The Man - Small Shotgun Guard_59: -1364120479
+      Mobile - Dan The Man - Small Shotgun Guard_6: 4972242
+      Mobile - Dan The Man - Small Shotgun Guard_60: -608858714
+      Mobile - Dan The Man - Small Shotgun Guard_61: 203566483
+      Mobile - Dan The Man - Small Shotgun Guard_62: 1493322743
+      Mobile - Dan The Man - Small Shotgun Guard_63: -1170421183
+      Mobile - Dan The Man - Small Shotgun Guard_64: -1159272401
+      Mobile - Dan The Man - Small Shotgun Guard_65: -419537039
+      Mobile - Dan The Man - Small Shotgun Guard_66: -1398715941
+      Mobile - Dan The Man - Small Shotgun Guard_67: 2138257295
+      Mobile - Dan The Man - Small Shotgun Guard_68: 1925096095
+      Mobile - Dan The Man - Small Shotgun Guard_69: 503579057
+      Mobile - Dan The Man - Small Shotgun Guard_7: -1217217098
+      Mobile - Dan The Man - Small Shotgun Guard_70: 900498166
+      Mobile - Dan The Man - Small Shotgun Guard_71: -1658570961
+      Mobile - Dan The Man - Small Shotgun Guard_72: 1958672470
+      Mobile - Dan The Man - Small Shotgun Guard_73: 1260308134
+      Mobile - Dan The Man - Small Shotgun Guard_74: 2068858388
+      Mobile - Dan The Man - Small Shotgun Guard_75: -1254273311
+      Mobile - Dan The Man - Small Shotgun Guard_76: -1056243345
+      Mobile - Dan The Man - Small Shotgun Guard_77: 1253564775
+      Mobile - Dan The Man - Small Shotgun Guard_78: -125969834
+      Mobile - Dan The Man - Small Shotgun Guard_79: -890603991
+      Mobile - Dan The Man - Small Shotgun Guard_8: 964361109
+      Mobile - Dan The Man - Small Shotgun Guard_80: -1242490237
+      Mobile - Dan The Man - Small Shotgun Guard_81: 1180953586
+      Mobile - Dan The Man - Small Shotgun Guard_82: -871754088
+      Mobile - Dan The Man - Small Shotgun Guard_83: 1880670291
+      Mobile - Dan The Man - Small Shotgun Guard_84: 461679296
+      Mobile - Dan The Man - Small Shotgun Guard_85: -1379910037
+      Mobile - Dan The Man - Small Shotgun Guard_86: 577260711
+      Mobile - Dan The Man - Small Shotgun Guard_87: -1492722922
+      Mobile - Dan The Man - Small Shotgun Guard_88: 328454536
+      Mobile - Dan The Man - Small Shotgun Guard_89: 741559039
+      Mobile - Dan The Man - Small Shotgun Guard_9: 549727633
+      Mobile - Dan The Man - Small Shotgun Guard_90: -1403042012
+      Mobile - Dan The Man - Small Shotgun Guard_91: 1371374168
+      Mobile - Dan The Man - Small Shotgun Guard_92: 1617651274
+      Mobile - Dan The Man - Small Shotgun Guard_93: -206625602
+      Mobile - Dan The Man - Small Shotgun Guard_94: -1879859436
+      Mobile - Dan The Man - Small Shotgun Guard_95: 874016784
+      Mobile - Dan The Man - Small Shotgun Guard_96: 53159112
+      Mobile - Dan The Man - Small Shotgun Guard_97: -1477546477
+      Mobile - Dan The Man - Small Shotgun Guard_98: -191258647
+      Mobile - Dan The Man - Small Shotgun Guard_99: 1922712113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

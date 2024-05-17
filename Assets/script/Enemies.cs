@@ -11,6 +11,25 @@ public class enemy : MonoBehaviour
     public Animator animator;
     public int maxhealth = 100;
     public int currenthp;
+    public Transform player;
+    public bool isFlip = false;
+    public void lookplayer()
+    {
+        Vector3 flip = transform.localScale;
+        flip.z *= -1f;
+        if (transform.position.x > player.position.x && isFlip)
+        {
+            transform.localScale = flip;
+            transform.Rotate(0f, 180f, 0f);
+            isFlip = false;
+        }
+        if (transform.position.x < player.position.x && !isFlip)
+        {
+            transform.localScale = flip;
+            transform.Rotate(0f, 180f, 0f);
+            isFlip = true;
+        }
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -49,9 +68,11 @@ public class enemy : MonoBehaviour
         void Die()
         {
             animator.SetBool("die",true);
-            GetComponent<Collider2D>().enabled = false; 
-            this.enabled = false;
+            GetComponent<Collider2D>().isTrigger = true;
+            
+
         }
+        
 
     }
 }
