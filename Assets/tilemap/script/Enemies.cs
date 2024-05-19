@@ -6,7 +6,9 @@ using UnityEngine.UI;
 
 public class enemy : MonoBehaviour
 {
-    public AudioManager audio;
+    public int defeated1 =0;
+    public int defeated2 = 0;
+    public AudioManager Audio;
     public Slider slider;
     public Animator animator;
     public int maxhealth = 100;
@@ -33,7 +35,7 @@ public class enemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        audio = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
+        Audio = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
         animator = GetComponent<Animator>();    
         currenthp = maxhealth;
         SetMaxhealth(currenthp);
@@ -55,7 +57,7 @@ public class enemy : MonoBehaviour
     }
     public void Takedame(int damage)
     {
-        audio.PlaySFX(audio.enemygethurt);
+        Audio.PlaySFX(Audio.enemygethurt);
         currenthp -= damage;
         Debug.Log("AR"+currenthp);
         SetHealth(currenthp);
@@ -67,6 +69,8 @@ public class enemy : MonoBehaviour
         }
         void Die()
         {
+            defeated1 += 1;
+            defeated2 += 1;
             animator.SetBool("die",true);
             GetComponent<Collider2D>().isTrigger = true;
             

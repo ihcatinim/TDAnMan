@@ -6,7 +6,7 @@ public class attackSG : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject bullet;
-    public float attackrate = 2f;
+    public float attackrate = 10f;
     float nextattacktime = 2f;
     public AudioManager audio;
     public LayerMask layerplayer;

@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class playerHP : MonoBehaviour
 {
+    public controllUi controllui;
     public AudioManager manager;
     public HealthbarMain healthbarMain;
     public Animator animator;
@@ -13,6 +14,7 @@ public class playerHP : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
         manager = GameObject.FindGameObjectWithTag("audio").GetComponent<AudioManager>();
         animator = GetComponent<Animator>();
         currenthp = maxhealth;
@@ -22,7 +24,7 @@ public class playerHP : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
     }
     public void TakeDame(int damage)
     {
@@ -33,7 +35,7 @@ public class playerHP : MonoBehaviour
         animator.SetTrigger("hitted");
         if (currenthp <= 0)
         {
-
+            controllui.gameOver();
             Die();
         }
         void Die()
