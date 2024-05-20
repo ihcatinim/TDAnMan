@@ -11,7 +11,7 @@ public class attacks : MonoBehaviour
     public LayerMask enemylayers;
     public int atkdama = 20;
     public float attackrate = 2f;
-    float nextattacktime = 0f;
+    float nextattacktime = 4f;
         
     // Start is called before the first frame update
     void Start()
@@ -68,6 +68,7 @@ public class attacks : MonoBehaviour
         foreach(Collider2D enemy in hitenemy)
         {
             enemy.GetComponent<enemy>().Takedame(atkdama);
+            enemy.GetComponent<bossS>().Takedame(atkdama);
         }
 
     }
