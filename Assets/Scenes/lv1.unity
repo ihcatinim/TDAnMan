@@ -40511,6 +40511,7 @@ GameObject:
   - component: {fileID: 1735630692}
   - component: {fileID: 1735630693}
   - component: {fileID: 1735630694}
+  - component: {fileID: 1735630695}
   m_Layer: 10
   m_Name: Mobile - Dan The Man - Josie_0
   m_TagString: Player
@@ -40746,6 +40747,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
+--- !u!114 &1735630695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735630683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 827013b3c41c47f47aade708afec90a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterdata: {fileID: 11400000, guid: 1773c981e186b654081e6ec5ffb0c8ec, type: 2}
+  spriter: {fileID: 1735630685}
 --- !u!1 &1741555843
 GameObject:
   m_ObjectHideFlags: 0

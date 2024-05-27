@@ -31,5 +31,8 @@ public class controllUi : MonoBehaviour
     {
         requiment.SetActive(true);
     }
-
+    public void btnPlay()
+    {
+        SceneManager.LoadScene("stage lv");
+    }
 }
